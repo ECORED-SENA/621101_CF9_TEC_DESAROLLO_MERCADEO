@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1088" height="741" viewBox="0 0 1088 741">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.45" x2="0.5" y2="-0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3654"/>
+      <stop offset="1" stop-color="#bc2e4b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.585" x2="0.5" y2="0.099" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d60b41"/>
+      <stop offset="0.996" stop-color="#a42e4b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1.45" x2="0.5" y2="-0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b52426"/>
+      <stop offset="1" stop-color="#8d191b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="0.51" x2="0.5" y2="-0.045" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#661415"/>
+      <stop offset="1" stop-color="#86181a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.984" y1="1.762" x2="0.296" y2="0.386" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" x1="0.787" y1="0.781" x2="0.164" y2="-0.465" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#86181a"/>
+      <stop offset="1" stop-color="#661415"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.87" y1="0.947" x2="0.05" y2="-0.692" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d60b41"/>
+      <stop offset="1" stop-color="#a42e4b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.935" y1="1.664" x2="0.169" y2="0.131" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bc2e4b"/>
+      <stop offset="0.273" stop-color="#c92f4c"/>
+      <stop offset="0.783" stop-color="#ed3351"/>
+      <stop offset="1" stop-color="#ff3654"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0.873" y1="1.795" x2="0.064" y2="-1.011" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3cdd1"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(0.707, 0.707, -0.707, 0.707, 0.5, -0.207)" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.183" stop-color="#333"/>
+      <stop offset="0.589" stop-color="#9f9f9f"/>
+      <stop offset="0.869" stop-color="#e4e4e4"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cy="0.5" r="0.5" gradientTransform="matrix(0.23, 0.973, -0.973, 0.23, 0.872, -0.102)" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-10" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3654"/>
+      <stop offset="1" stop-color="#e02e4b"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cy="0.5" r="0.5" gradientTransform="matrix(-0.162, -0.987, 0.987, -0.162, 4.95, -1.739)" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="0.995" y1="0.995" x2="0.151" y2="0.151" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a42e4b"/>
+      <stop offset="1" stop-color="#d60b41"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-5" cy="0.5" r="0.5" gradientTransform="translate(0.912 -0.075) rotate(80.652)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cy="0.5" r="0.5" gradientTransform="matrix(0.158, 0.987, -0.987, 0.158, 0.914, -0.073)" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="0.894" y1="0.894" x2="-0.079" y2="-0.079" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8d191b"/>
+      <stop offset="0.998" stop-color="#b52426"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cy="0.5" r="0.5" gradientTransform="translate(0.915 -0.072) rotate(80.957)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-8" cy="0.5" r="0.5" gradientTransform="matrix(-0.148, -0.989, 0.989, -0.148, -2.472, -7.999)" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="0.824" y1="0.824" x2="0.032" y2="0.032" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#86181a"/>
+      <stop offset="0.996" stop-color="#661415"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectángulo_7031" data-name="Rectángulo 7031" width="1088" height="741" fill="#fff"/>
+  <g id="Grupo_81711" data-name="Grupo 81711" transform="translate(257.127 -60.426)">
+    <g id="Grupo_81750" data-name="Grupo 81750" transform="translate(238.713 60.425)">
+      <text id="PELIGROS" transform="translate(0 21)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">PELIGROS</tspan></text>
+      <g id="Grupo_81749" data-name="Grupo 81749" transform="translate(21.775 27.428)">
+        <path id="Trazado_142120" data-name="Trazado 142120" d="M336.165,92.986a2.32,2.32,0,1,1-3.281,0A2.319,2.319,0,0,1,336.165,92.986Z" transform="translate(-332.204 -92.306)" fill="#ff3654"/>
+        <path id="Trazado_142121" data-name="Trazado 142121" d="M354.814,92.986a2.32,2.32,0,1,1-3.281,0A2.32,2.32,0,0,1,354.814,92.986Z" transform="translate(-334.81 -92.306)" fill="#d60b41"/>
+        <path id="Trazado_142122" data-name="Trazado 142122" d="M373.462,92.986a2.32,2.32,0,1,1-3.281,0A2.32,2.32,0,0,1,373.462,92.986Z" transform="translate(-337.415 -92.306)" fill="#b52426"/>
+        <path id="Trazado_142123" data-name="Trazado 142123" d="M392.11,92.986a2.32,2.32,0,1,1-3.281,0A2.32,2.32,0,0,1,392.11,92.986Z" transform="translate(-340.02 -92.306)" fill="#97181a"/>
+      </g>
+    </g>
+    <g id="Grupo_81784" data-name="Grupo 81784" transform="translate(-181.127 116.501)">
+      <g id="Grupo_81752" data-name="Grupo 81752" transform="translate(17.415 331.647)">
+        <path id="Trazado_142124" data-name="Trazado 142124" d="M-132.241,811v.84a29.582,29.582,0,0,0,29.582,29.582H23.966a29.582,29.582,0,0,0,29.582-29.582V811Z" transform="translate(156.882 -553.01)" fill="url(#linear-gradient)"/>
+        <path id="Trazado_142125" data-name="Trazado 142125" d="M74.2,511.113V745.425a37.43,37.43,0,0,1-37.439,37.42H-123.463a37.415,37.415,0,0,1-37.421-37.42V511.113Z" transform="translate(160.884 -511.113)" fill="#fff"/>
+        <g id="Grupo_81751" data-name="Grupo 81751" transform="translate(45.458 146.893)">
+          <g id="PROBABILIDAD_DE_OCURRENCIA_" data-name="PROBABILIDAD DE OCURRENCIA " transform="translate(14.198)">
+            <g id="PROBABILIDAD_" data-name="PROBABILIDAD " transform="translate(7.782)" style="isolation: isolate">
+              <text id="PROBABILIDAD" transform="translate(49 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-49.068" y="0">PROBABILIDAD</tspan></text>
+            </g>
+            <g id="DE_OCURRENCIA" data-name="DE OCURRENCIA" transform="translate(0 15.141)" style="isolation: isolate">
+              <text id="DE_OCURRENCIA-2" data-name="DE OCURRENCIA" transform="translate(53 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-53.457" y="0">DE OCURRENCIA</tspan></text>
+            </g>
+          </g>
+          <g id="La_probabilidad_de_ocurrencia_depende_de_la_eliminación_o_control_de_los_elementos_agresivos._" data-name="La probabilidad de ocurrencia depende de la eliminación o control de los elementos agresivos. " transform="translate(0 39.387)">
+            <g id="La_probabilidad_de_" data-name="La probabilidad de " style="isolation: isolate">
+              <text id="La_probabilidad_de" data-name="La probabilidad de" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">La probabilidad de</tspan></text>
+            </g>
+            <g id="ocurrencia_depende_de_la_" data-name="ocurrencia depende de la " transform="translate(0 13.421)" style="isolation: isolate">
+              <text id="ocurrencia_depende_de_la" data-name="ocurrencia depende de la" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">ocurrencia depende de la</tspan></text>
+            </g>
+            <g id="eliminación_o_control_de_los_" data-name="eliminación o control de los " transform="translate(0 26.841)" style="isolation: isolate">
+              <text id="eliminación_o_control_de_los" data-name="eliminación o control de los" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">eliminación o control de los</tspan></text>
+            </g>
+            <g id="elementos_agresivos." data-name="elementos agresivos." transform="translate(0 40.262)" style="isolation: isolate">
+              <text id="elementos_agresivos.-2" data-name="elementos agresivos." transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">elementos agresivos.</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_81755" data-name="Grupo 81755" transform="translate(239.328)">
+        <path id="Trazado_142126" data-name="Trazado 142126" d="M311.654,156.03v-.84a29.583,29.583,0,0,0-29.583-29.582H155.446a29.582,29.582,0,0,0-29.582,29.582v.84Z" transform="translate(-101.09 -125.608)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_142127" data-name="Trazado 142127" d="M97.067,416.732V182.42A37.429,37.429,0,0,1,134.506,145H294.731a37.413,37.413,0,0,1,37.42,37.42V416.732Z" transform="translate(-97.067 -128.317)" fill="#fff"/>
+        <g id="Grupo_81754" data-name="Grupo 81754" transform="translate(45.34 30.584)">
+          <g id="Grupo_81753" data-name="Grupo 81753">
+            <g id="EL_RIESGO" data-name="EL RIESGO" transform="translate(29.637)">
+              <g id="EL_RIESGO-2" data-name="EL RIESGO-2" style="isolation: isolate">
+                <text id="EL_RIESGO-2-2" data-name="EL RIESGO" transform="translate(0 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">EL RIESGO</tspan></text>
+              </g>
+            </g>
+            <g id="El_riesgo_es_la_probabilidad_de_ocurrencia_de_un_evento_que_trae_consecuencias_desagradables_o_negativas_para_la_integridad_del_trabajador_así_como_pa" data-name="El riesgo es la probabilidad de ocurrencia de un evento que trae consecuencias desagradables o negativas para la integridad del trabajador así como pa" transform="translate(0 22.83)">
+              <g id="El_riesgo_es_la_probabilidad_" data-name="El riesgo es la probabilidad " style="isolation: isolate">
+                <text id="El_riesgo_es_la_probabilidad" data-name="El riesgo es la probabilidad" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">El riesgo es la probabilidad</tspan></text>
+              </g>
+              <g id="de_ocurrencia_de_un_evento_" data-name="de ocurrencia de un evento " transform="translate(0 13.421)" style="isolation: isolate">
+                <text id="de_ocurrencia_de_un_evento" data-name="de ocurrencia de un evento" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">de ocurrencia de un evento</tspan></text>
+              </g>
+              <g id="que_trae_consecuencias_" data-name="que trae consecuencias " transform="translate(0 26.841)" style="isolation: isolate">
+                <text id="que_trae_consecuencias" data-name="que trae consecuencias" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">que trae consecuencias</tspan></text>
+              </g>
+              <g id="desagradables_o_negativas_" data-name="desagradables o negativas " transform="translate(0 40.262)" style="isolation: isolate">
+                <text id="desagradables_o_negativas" data-name="desagradables o negativas" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">desagradables o negativas</tspan></text>
+              </g>
+              <g id="para_la_integridad_del_" data-name="para la integridad del " transform="translate(0 53.682)" style="isolation: isolate">
+                <text id="para_la_integridad_del" data-name="para la integridad del" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">para la integridad del</tspan></text>
+              </g>
+              <g id="trabajador_así_como_para_" data-name="trabajador así como para " transform="translate(0 67.103)" style="isolation: isolate">
+                <text id="trabajador_así_como_para" data-name="trabajador, así como para" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">trabajador, así como para</tspan></text>
+              </g>
+              <g id="los_materiales_equipos_y_el_" data-name="los materiales equipos y el " transform="translate(0 80.523)" style="isolation: isolate">
+                <text id="los_materiales_equipos_y_el" data-name="los materiales, equipos y el" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">los materiales, equipos y el</tspan></text>
+              </g>
+              <g id="ambiente_que_rodea_al_" data-name="ambiente que rodea al " transform="translate(0 93.944)" style="isolation: isolate">
+                <text id="ambiente_que_rodea_al" data-name="ambiente que rodea al" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">ambiente que rodea al</tspan></text>
+              </g>
+              <g id="individuo" transform="translate(0 107.365)" style="isolation: isolate">
+                <text id="individuo." transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">individuo.</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_81758" data-name="Grupo 81758" transform="translate(461.474 331.647)">
+        <path id="Trazado_142128" data-name="Trazado 142128" d="M383.93,811v.84a29.582,29.582,0,0,0,29.582,29.582H540.137a29.582,29.582,0,0,0,29.582-29.582V811Z" transform="translate(-359.289 -553.01)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_142129" data-name="Trazado 142129" d="M590.373,511.113V745.425a37.431,37.431,0,0,1-37.44,37.42H392.708a37.414,37.414,0,0,1-37.42-37.42V511.113Z" transform="translate(-355.288 -511.113)" fill="#fff"/>
+        <g id="Grupo_81757" data-name="Grupo 81757" transform="translate(45.719 147.159)">
+          <g id="Grupo_81756" data-name="Grupo 81756" transform="translate(12.831)">
+            <g id="CLASIFICACIÓN_" data-name="CLASIFICACIÓN " transform="translate(2.525)" style="isolation: isolate">
+              <text id="CLASIFICACIÓN" transform="translate(0 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">CLASIFICACIÓN</tspan></text>
+            </g>
+            <g id="DE_LOS_RIESGOS" data-name="DE LOS RIESGOS" transform="translate(0 15.141)" style="isolation: isolate">
+              <text id="DE_LOS_RIESGOS-2" data-name="DE LOS RIESGOS" transform="translate(0 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">DE LOS RIESGOS</tspan></text>
+            </g>
+          </g>
+          <g id="Se_clasifican_en:_físicos_químicos_ergonómicos_de_seguridad_psicosociales_biológicos_y_rendimientos_naturales_Bedoya_2018_._" data-name="Se clasifican en: físicos químicos ergonómicos de seguridad psicosociales biológicos y rendimientos naturales Bedoya 2018 . " transform="translate(0 36.877)">
+            <g id="Se_clasifican_en:_físicos_" data-name="Se clasifican en: físicos " style="isolation: isolate">
+              <text id="Se_clasifican_en:_físicos_2" data-name="Se clasifican en: físicos," transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Se clasifican en: físicos,</tspan></text>
+            </g>
+            <g id="químicos_ergonómicos_de_" data-name="químicos ergonómicos de " transform="translate(0 13.421)" style="isolation: isolate">
+              <text id="químicos_ergonómicos_de" data-name="químicos, ergonómicos, de" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">químicos, ergonómicos, de</tspan></text>
+            </g>
+            <g id="seguridad_psicosociales_" data-name="seguridad psicosociales " transform="translate(0 26.841)" style="isolation: isolate">
+              <text id="seguridad_psicosociales_2" data-name="seguridad, psicosociales," transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">seguridad, psicosociales,</tspan></text>
+            </g>
+            <g id="biológicos_y_rendimientos_" data-name="biológicos y rendimientos " transform="translate(0 40.262)" style="isolation: isolate">
+              <text id="biológicos_y_rendimientos" data-name="biológicos y rendimientos" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">biológicos y rendimientos</tspan></text>
+            </g>
+            <g id="naturales_" data-name="naturales " transform="translate(0 53.682)" style="isolation: isolate">
+              <text id="naturales_2" data-name="naturales," transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">naturales,</tspan></text>
+            </g>
+            <g id="_Bedoya_2018_." data-name=" Bedoya 2018 ." transform="translate(51.092 53.682)" style="isolation: isolate">
+              <text id="_Bedoya_2018_.-2" data-name="(Bedoya, 2018)." transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">(Bedoya, 2018).</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_81762" data-name="Grupo 81762" transform="translate(683.505)">
+        <g id="Grupo_81759" data-name="Grupo 81759">
+          <path id="Trazado_142130" data-name="Trazado 142130" d="M827.825,156.03v-.84a29.582,29.582,0,0,0-29.582-29.582H671.618a29.583,29.583,0,0,0-29.583,29.582v.84Z" transform="translate(-617.38 -125.608)" fill="url(#linear-gradient-4)"/>
+          <path id="Trazado_142131" data-name="Trazado 142131" d="M613.376,416.732V182.42A37.43,37.43,0,0,1,650.816,145H811.041a37.414,37.414,0,0,1,37.42,37.42V416.732Z" transform="translate(-613.376 -128.317)" fill="#fff"/>
+        </g>
+        <g id="Grupo_81761" data-name="Grupo 81761" transform="translate(44.158 30.443)">
+          <g id="Grupo_81760" data-name="Grupo 81760">
+            <g id="_QUÉ_LOS_CONSTITUYE_" data-name=" QUÉ LOS CONSTITUYE " transform="translate(22.82)">
+              <g id="_QUÉ_LOS_" data-name=" QUÉ LOS " transform="translate(14.321)" style="isolation: isolate">
+                <text id="_QUÉ_LOS" data-name="¿QUÉ LOS" transform="translate(0 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">¿QUÉ LOS</tspan></text>
+              </g>
+              <g id="CONSTITUYE_" data-name="CONSTITUYE " transform="translate(0 18.582)" style="isolation: isolate">
+                <text id="CONSTITUYE_2" data-name="CONSTITUYE?" transform="translate(0 15)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">CONSTITUYE?</tspan></text>
+              </g>
+            </g>
+            <g id="El_peligro_lo_constituyen_todos_los_objetos_elementos_fenómenos_circunstancias_condiciones_y_acciones_humanas_que_encierran_una_capacidad_potencial_de" data-name="El peligro lo constituyen todos los objetos elementos fenómenos circunstancias condiciones y acciones humanas que encierran una capacidad potencial de" transform="translate(0 44.579)">
+              <g id="El_peligro_lo_constituyen_" data-name="El peligro lo constituyen " style="isolation: isolate">
+                <text id="El_peligro_lo_constituyen" data-name="El peligro lo constituyen" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">El peligro lo constituyen</tspan></text>
+              </g>
+              <g id="todos_los_objetos_" data-name="todos los objetos " transform="translate(0 13.421)" style="isolation: isolate">
+                <text id="todos_los_objetos_2" data-name="todos los objetos," transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">todos los objetos,</tspan></text>
+              </g>
+              <g id="elementos_fenómenos_" data-name="elementos fenómenos " transform="translate(0 26.841)" style="isolation: isolate">
+                <text id="elementos_fenómenos_2" data-name="elementos, fenómenos," transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">elementos, fenómenos,</tspan></text>
+              </g>
+              <g id="circunstancias_" data-name="circunstancias " transform="translate(0 40.262)" style="isolation: isolate">
+                <text id="circunstancias_2" data-name="circunstancias," transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">circunstancias,</tspan></text>
+              </g>
+              <g id="condiciones_y_acciones_" data-name="condiciones y acciones " transform="translate(0 53.682)" style="isolation: isolate">
+                <text id="condiciones_y_acciones" data-name="condiciones y acciones" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">condiciones y acciones</tspan></text>
+              </g>
+              <g id="humanas_que_encierran_" data-name="humanas que encierran " transform="translate(0 67.103)" style="isolation: isolate">
+                <text id="humanas_que_encierran" data-name="humanas que encierran" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">humanas que encierran</tspan></text>
+              </g>
+              <g id="una_capacidad_potencial_de_" data-name="una capacidad potencial de " transform="translate(0 80.523)" style="isolation: isolate">
+                <text id="una_capacidad_potencial_de" data-name="una capacidad potencial de" transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">una capacidad potencial de</tspan></text>
+              </g>
+              <g id="producir_lesiones_o_daños." data-name="producir lesiones o daños." transform="translate(0 93.944)" style="isolation: isolate">
+                <text id="producir_lesiones_o_daños.-2" data-name="producir lesiones o daños." transform="translate(0 10)" fill="#12263f" font-size="10" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">producir lesiones o daños.</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_81764" data-name="Grupo 81764" transform="translate(17.41 214.098)">
+        <g id="Grupo_81763" data-name="Grupo 81763" transform="translate(444.064)">
+          <path id="Trazado_142132" data-name="Trazado 142132" d="M472.828,374.475a117.54,117.54,0,0,0-117.54,117.54H590.369A117.54,117.54,0,0,0,472.828,374.475Z" transform="translate(-355.288 -374.475)" fill="url(#linear-gradient-5)"/>
+        </g>
+        <path id="Trazado_142133" data-name="Trazado 142133" d="M730.923,628.645A117.541,117.541,0,0,0,848.464,511.1H613.383A117.54,117.54,0,0,0,730.923,628.645Z" transform="translate(52.718 -393.563)" fill="url(#linear-gradient-6)"/>
+        <path id="Trazado_142134" data-name="Trazado 142134" d="M214.746,628.645A117.54,117.54,0,0,0,332.286,511.1H97.205A117.541,117.541,0,0,0,214.746,628.645Z" transform="translate(124.832 -393.563)" fill="url(#linear-gradient-7)"/>
+        <path id="Trazado_142135" data-name="Trazado 142135" d="M-43.349,374.475A117.54,117.54,0,0,0-160.89,492.015H74.191A117.54,117.54,0,0,0-43.349,374.475Z" transform="translate(160.89 -374.475)" fill="url(#linear-gradient-8)"/>
+      </g>
+      <path id="Trazado_142136" data-name="Trazado 142136" d="M706.992,489.192h47.881a134.946,134.946,0,1,0-269.893,0h-.018a87.075,87.075,0,0,1-174.149,0,134.955,134.955,0,1,0-269.911,0,87.077,87.077,0,0,1-87.083,87.065,87.074,87.074,0,0,1-87.066-87.065h-47.88A134.951,134.951,0,0,0-46.181,624.138,134.955,134.955,0,0,0,88.784,489.192a87.075,87.075,0,1,1,174.149,0,134.955,134.955,0,0,0,269.91,0,87.075,87.075,0,1,1,174.149,0Z" transform="translate(181.127 -157.548)" fill="url(#linear-gradient-9)"/>
+      <line id="Línea_252" data-name="Línea 252" x2="235.081" transform="translate(17.41 331.639)" fill="#fff"/>
+      <g id="Grupo_81778" data-name="Grupo 81778" transform="translate(39.073 231.518)">
+        <g id="Grupo_81767" data-name="Grupo 81767" transform="translate(0 9.468)">
+          <circle id="Elipse_4507" data-name="Elipse 4507" cx="85.132" cy="85.132" r="85.132" transform="translate(0 120.395) rotate(-45)" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Grupo_81766" data-name="Grupo 81766" transform="translate(8.802 3.578)">
+            <circle id="Elipse_4508" data-name="Elipse 4508" cx="87.075" cy="87.075" r="87.075" fill="#fff"/>
+            <circle id="Elipse_4509" data-name="Elipse 4509" cx="69.307" cy="69.307" r="69.307" transform="translate(13.476 150.504) rotate(-76.717)" fill="url(#radial-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+            <g id="Grupo_81765" data-name="Grupo 81765" transform="translate(24.676 24.676)">
+              <circle id="Elipse_4510" data-name="Elipse 4510" cx="62.399" cy="62.399" r="62.399" fill="url(#linear-gradient-10)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81770" data-name="Grupo 81770" transform="translate(210.422 0)">
+          <circle id="Elipse_4511" data-name="Elipse 4511" cx="85.132" cy="85.132" r="85.132" transform="translate(0 120.395) rotate(-45)" fill="url(#radial-gradient-3)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Grupo_81769" data-name="Grupo 81769" transform="translate(20.418 13.046)">
+            <circle id="Elipse_4512" data-name="Elipse 4512" cx="87.075" cy="87.075" r="87.075" fill="#fff"/>
+            <g id="Grupo_81768" data-name="Grupo 81768" transform="translate(13.595 16.635)">
+              <circle id="Elipse_4513" data-name="Elipse 4513" cx="69.307" cy="69.307" r="69.307" transform="translate(0 136.783) rotate(-80.676)" fill="url(#radial-gradient-4)" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <circle id="Elipse_4514" data-name="Elipse 4514" cx="62.399" cy="62.399" r="62.399" transform="translate(11.08 8.04)" fill="url(#linear-gradient-11)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81773" data-name="Grupo 81773" transform="translate(452.866 13.046)">
+          <circle id="Elipse_4515" data-name="Elipse 4515" cx="85.132" cy="85.132" r="85.132" transform="translate(18.868 186.989) rotate(-80.652)" fill="url(#radial-gradient-5)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Grupo_81772" data-name="Grupo 81772">
+            <circle id="Elipse_4516" data-name="Elipse 4516" cx="87.075" cy="87.075" r="87.075" fill="#fff"/>
+            <g id="Grupo_81771" data-name="Grupo 81771" transform="translate(17.443 19.565)">
+              <circle id="Elipse_4517" data-name="Elipse 4517" cx="69.307" cy="69.307" r="69.307" transform="matrix(0.158, -0.987, 0.987, 0.158, 0, 136.865)" fill="url(#radial-gradient-6)" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <circle id="Elipse_4518" data-name="Elipse 4518" cx="62.399" cy="62.399" r="62.399" transform="translate(7.232 5.111)" fill="url(#linear-gradient-12)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81777" data-name="Grupo 81777" transform="translate(674.903 13.046)">
+          <circle id="Elipse_4519" data-name="Elipse 4519" cx="85.132" cy="85.132" r="85.132" transform="translate(5.903 178.906) rotate(-80.957)" fill="url(#radial-gradient-7)" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <g id="Grupo_81776" data-name="Grupo 81776">
+            <circle id="Elipse_4520" data-name="Elipse 4520" cx="87.075" cy="87.075" r="87.075" fill="#fff"/>
+            <g id="Grupo_81775" data-name="Grupo 81775" transform="translate(15.292 14.891)">
+              <circle id="Elipse_4521" data-name="Elipse 4521" cx="69.307" cy="69.307" r="69.307" transform="translate(0 137.094) rotate(-81.507)" fill="url(#radial-gradient-8)" style="mix-blend-mode: multiply;isolation: isolate"/>
+              <g id="Grupo_81774" data-name="Grupo 81774" transform="translate(9.383 9.784)">
+                <circle id="Elipse_4522" data-name="Elipse 4522" cx="62.399" cy="62.399" r="62.399" fill="url(#linear-gradient-13)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_81779" data-name="Grupo 81779" transform="translate(66.752 101.929)">
+        <path id="Trazado_142137" data-name="Trazado 142137" d="M-68.973,319.972h-.005a1.974,1.974,0,0,0-1.967,1.979l.081,26.4-12.226-5.828-.067-21.259a1.973,1.973,0,0,0-1.974-1.967h-.005a1.973,1.973,0,0,0-1.967,1.979l.068,21.537a3.514,3.514,0,0,0,1.994,3.15l13.114,6.252a3.485,3.485,0,0,0,1.511.345,3.487,3.487,0,0,0,1.873-.547,3.483,3.483,0,0,0,1.628-2.969L-67,321.939A1.974,1.974,0,0,0-68.973,319.972Z" transform="translate(101.24 -254.597)" fill="#767777"/>
+        <path id="Trazado_142138" data-name="Trazado 142138" d="M-.235,289.32A14.5,14.5,0,0,0-9.1,270.866l-.06-19.539a7.268,7.268,0,0,0-7.259-7.237h-.023a7.214,7.214,0,0,0-5.127,2.14,7.2,7.2,0,0,0-2.051,4.52c-6.816,7.68-34.519,12.078-44.922,13.151l-18.778.058a11.558,11.558,0,0,0-8.207,3.427,11.548,11.548,0,0,0-3.378,8.229l0,.892-4.629.022.077,16.028,4.6-.022,0,.817a11.635,11.635,0,0,0,11.623,11.587h.034l18.458-.056c.035.008.075-.006.11,0s.077.031.121.035c10.311.99,38.036,5.2,45.029,12.813v.155a7.207,7.207,0,0,0,2.142,5.127,7.212,7.212,0,0,0,5.115,2.109h.023a7.215,7.215,0,0,0,5.128-2.142,7.217,7.217,0,0,0,2.11-5.139l-.061-19.712A14.378,14.378,0,0,0-.235,289.32Zm-86.972,11.675h-.023a7.684,7.684,0,0,1-7.678-7.652l-.053-17.738a7.633,7.633,0,0,1,2.231-5.435,7.619,7.619,0,0,1,5.42-2.263l16.912-.053.04,13.082.062,20.008Zm20.856.185-.051-16.631-.052-16.912c6.952-.823,31.874-4.232,42.785-11.709l.175,56.7C-34.453,305.218-59.393,301.964-66.351,301.18Zm52.483,19.02a3.3,3.3,0,0,1-2.341.979h-.011a3.318,3.318,0,0,1-3.312-3.3l-.2-66.517a3.286,3.286,0,0,1,.963-2.347,3.283,3.283,0,0,1,2.339-.976h.012a3.318,3.318,0,0,1,3.314,3.3l.2,66.517A3.283,3.283,0,0,1-13.868,320.2Zm4.838-26.341-.046-18.7a10.551,10.551,0,0,1,5.119,12.853A10.459,10.459,0,0,1-9.03,293.859Z" transform="translate(103.535 -244.09)" fill="#767777"/>
+        <path id="Trazado_142139" data-name="Trazado 142139" d="M18.628,314.3a1.972,1.972,0,1,0-3.406,1.988l5.849,10.019a1.972,1.972,0,1,0,3.406-1.989Z" transform="translate(86.981 -253.762)" fill="#767777"/>
+        <path id="Trazado_142140" data-name="Trazado 142140" d="M38.166,308.841l-10.072-5.753a1.972,1.972,0,1,0-1.957,3.425l10.072,5.754a1.973,1.973,0,0,0,1.957-3.426Z" transform="translate(85.558 -252.296)" fill="#767777"/>
+        <path id="Trazado_142141" data-name="Trazado 142141" d="M42.292,288.585h-.009l-11.6.054a1.973,1.973,0,0,0,.009,3.945H30.7l11.6-.054a1.973,1.973,0,0,0-.009-3.945Z" transform="translate(85.058 -250.306)" fill="#767777"/>
+        <path id="Trazado_142142" data-name="Trazado 142142" d="M25,276.6a1.971,1.971,0,0,0,2.7.709l10.019-5.849a1.972,1.972,0,0,0-1.988-3.407L25.7,273.9A1.972,1.972,0,0,0,25,276.6Z" transform="translate(85.616 -247.4)" fill="#767777"/>
+        <path id="Trazado_142143" data-name="Trazado 142143" d="M15.227,266.438a1.97,1.97,0,0,0,2.691-.734l5.754-10.072a1.973,1.973,0,1,0-3.426-1.957l-5.753,10.072A1.97,1.97,0,0,0,15.227,266.438Z" transform="translate(87.082 -245.29)" fill="#767777"/>
+      </g>
+      <path id="Trazado_142144" data-name="Trazado 142144" d="M276.9,777.885c-.118-.51-2.916-12.5-5.872-15.486-5.674-5.741-27.9-11.473-31.581-12.392L237.7,738.462a21.82,21.82,0,0,0,4.168-5.4,31.6,31.6,0,0,0,2.786-9c.33-1.64.645-3.2,1.1-4.708,2.586-.644,4.849-3.366,5.6-6.819a10.309,10.309,0,0,0-.3-5.694l.875-.291a2.99,2.99,0,0,0,.692-5.9v-4.943a28.222,28.222,0,0,0-14.864-24.486c-.08.19-.169.371-.244.559-4.806,11.74-4.9,28.247-4.859,31.918h-1.668c-.046-3.818.056-20.517,4.977-32.536.261-.653.553-1.305.847-1.924a.832.832,0,0,0-.38-1.1,30.7,30.7,0,0,0-13.669-3.191,30.2,30.2,0,0,0-13.583,3.173.834.834,0,0,0-.385,1.094c.3.643.593,1.282.871,1.953,4.915,12.006,5.006,28.715,4.958,32.531h-1.666c.045-3.667-.041-20.186-4.835-31.9-.083-.2-.174-.388-.257-.582a28.217,28.217,0,0,0-14.875,24.489v4.943a2.99,2.99,0,0,0,.688,5.9l.882.293a10.29,10.29,0,0,0-.31,5.693c.755,3.452,3.02,6.176,5.6,6.819.449,1.51.765,3.069,1.1,4.708a31.688,31.688,0,0,0,2.781,8.994,21.867,21.867,0,0,0,4.173,5.4l-1.743,11.542c-3.661.912-25.911,6.651-31.589,12.392-2.958,2.99-5.754,14.976-5.871,15.486l-.216.936H277.118Zm-37.3-10.218H206l.04-.027-8.964-13.529c4.181-1.26,7.694-2.177,9.171-2.553,1.238,3.285,9.1,5.052,16.556,5.052,7.394,0,15.189-1.74,16.515-5.063,1.454.371,5,1.294,9.212,2.565l-8.966,13.529Zm-45.785-62.776a1.342,1.342,0,1,1-.121-2.68l9.367,3.12a.813.813,0,0,0,.264.045h38.951a.8.8,0,0,0,.262-.045l9.367-3.12a1.342,1.342,0,1,1-.123,2.68.916.916,0,0,0-.263.041l-9.377,3.128H203.456l-9.38-3.128A.917.917,0,0,0,193.813,704.891Zm11.254,27.446a30.466,30.466,0,0,1-2.628-8.571,51.357,51.357,0,0,0-1.269-5.3l-.145-.455-.474-.071c-2.168-.313-4.149-2.669-4.818-5.729a8.874,8.874,0,0,1,.262-4.883l7.065,2.354a.913.913,0,0,0,.264.041h38.951a.892.892,0,0,0,.262-.041l7.072-2.355a8.792,8.792,0,0,1,.253,4.885c-.669,3.059-2.649,5.416-4.818,5.729l-.473.071-.144.455a50.267,50.267,0,0,0-1.269,5.3,30.59,30.59,0,0,1-2.632,8.575c-3.472,6.435-10.762,10.927-17.726,10.927S208.54,738.774,205.067,732.337Zm4.19,7.337a20.452,20.452,0,0,0,27.08,0l1.674,10.982c0,1.849-5.788,4.432-15.214,4.432s-15.214-2.583-15.224-4.317Zm-33.608,23.8c2.125-2.151,6.916-4.351,12.128-6.278l7.792,11.762v8.336H170.4C171.362,773.419,173.627,765.517,175.649,763.473Zm74.377,13.821v-8.336l7.792-11.762c5.212,1.925,10,4.127,12.125,6.278,2.023,2.045,4.289,9.947,5.245,13.821Z" transform="translate(132.285 -200.959)" fill="#767777"/>
+      <g id="Grupo_81781" data-name="Grupo 81781" transform="translate(528.71 87.141)">
+        <g id="Grupo_81780" data-name="Grupo 81780">
+          <path id="Trazado_142145" data-name="Trazado 142145" d="M503.2,248.954a1.215,1.215,0,0,0-.129-.108c-.029-.015-.061-.015-.09-.028a34.608,34.608,0,0,0-18.044-5.152l-.015,0-.013,0a34.6,34.6,0,0,0-18.044,5.148c-.031.015-.063.014-.093.03a.97.97,0,0,0-.129.108,37.739,37.739,0,0,0-13.225,14.133,1.146,1.146,0,0,0,.405,1.519l7.164,4.423a1.146,1.146,0,0,0,1.2-1.949l-6.228-3.845a35.4,35.4,0,0,1,10.95-11.719l3.531,6.539a1.146,1.146,0,0,0,2.016-1.089l-3.6-6.66A32.3,32.3,0,0,1,483.775,246v7.648a1.145,1.145,0,0,0,2.29,0V246a32.3,32.3,0,0,1,14.913,4.312l-3.594,6.656a1.146,1.146,0,0,0,2.017,1.089l3.529-6.537a35.431,35.431,0,0,1,10.95,11.721l-6.226,3.842a1.146,1.146,0,1,0,1.2,1.949l7.159-4.418a1.147,1.147,0,0,0,.405-1.521A37.733,37.733,0,0,0,503.2,248.954Z" transform="translate(-436.214 -229.242)" fill="#767777"/>
+          <path id="Trazado_142146" data-name="Trazado 142146" d="M482.148,226.9a48.715,48.715,0,0,0-41.61,74.031l.005.005c.484.8,1,1.572,1.526,2.336.138.2.28.395.422.593q.63.884,1.3,1.733c.15.192.3.386.451.575.582.721,1.179,1.432,1.8,2.117l0,.005c.634.7,1.293,1.376,1.966,2.038.166.163.336.32.5.481q.779.743,1.587,1.452c.2.173.395.344.594.514q.92.778,1.875,1.512c.1.078.2.163.31.242q1.123.845,2.3,1.626c.181.119.366.233.549.35q.912.59,1.85,1.141.364.213.731.422.959.539,1.947,1.036c.187.094.371.194.559.287q1.263.616,2.565,1.161c.176.075.358.14.535.211q1.048.425,2.118.8c.278.1.558.19.839.284q1,.33,2.025.619c.25.071.5.145.751.212.919.244,1.847.466,2.786.656.131.026.264.045.4.071q1.218.235,2.46.41c.3.041.6.078.9.114q1.053.129,2.118.211c.293.024.586.05.88.067.982.059,1.968.1,2.965.1.975,0,1.941-.038,2.9-.094.293-.016.584-.045.876-.067.682-.052,1.361-.115,2.034-.2q.468-.055.934-.12,1.067-.148,2.12-.345c.229-.04.458-.076.686-.121.932-.186,1.854-.395,2.768-.633.118-.03.232-.067.349-.1q1.192-.321,2.357-.7c.239-.076.473-.158.709-.238q1.027-.352,2.031-.746c.212-.082.424-.163.634-.249.844-.345,1.678-.706,2.5-1.1l.026-.011q1.33-.635,2.613-1.348c.066-.035.131-.076.2-.114.761-.425,1.508-.872,2.243-1.336.127-.08.252-.16.378-.243.731-.471,1.448-.958,2.15-1.467.056-.041.114-.08.17-.121a48.7,48.7,0,0,0,4.531-3.743l.015-.016q1.056-.985,2.05-2.032c.029-.032.061-.065.093-.1a48.692,48.692,0,0,0-35.362-82.18Zm9.087,57.59a9.4,9.4,0,1,1-18.15,0H443.624a39.544,39.544,0,1,1,77.049,0Z" transform="translate(-433.443 -226.9)" fill="#767777"/>
+          <path id="Trazado_142147" data-name="Trazado 142147" d="M490.783,285.761l-9.276-23.206L485,286.78a6.33,6.33,0,1,0,5.78-1.019Z" transform="translate(-440.158 -231.881)" fill="#767777"/>
+        </g>
+      </g>
+      <g id="Grupo_81783" data-name="Grupo 81783" transform="translate(762.546 472.903)">
+        <g id="Grupo_81782" data-name="Grupo 81782">
+          <path id="Trazado_142148" data-name="Trazado 142148" d="M762.9,694.987l.337,3.568a8.353,8.353,0,0,1,2.237-1.29l.075-2.774a5.338,5.338,0,0,0-5.2-5.48,5.038,5.038,0,0,0-.793.059A8.325,8.325,0,0,1,762.9,694.987Z" transform="translate(-712.838 -677.223)" fill="#767777"/>
+          <path id="Trazado_142149" data-name="Trazado 142149" d="M814.025,720.541a6.107,6.107,0,0,0-8.282,2.453L797.4,736.336c-.448.716-.709.615-.578-.22.537-3.463,1.912-11.933,2.919-15.1,2.263-7.109,12.409-27.144,12.409-27.144a5.344,5.344,0,1,0-9.721-4.443l-10.77,23.557c-.35.767-.952,1.3-1.346,1.2s-.53-.85-.313-1.666l8.168-30.484a5.343,5.343,0,1,0-10.323-2.762l-8.169,30.48c-.219.816-.626,1.413-.913,1.338s-.452-.82-.373-1.659l2.454-25.791a5.344,5.344,0,0,0-10.64-1.01l-1.159,12.209c.2-.022.395-.059.6-.067h.219a8.348,8.348,0,0,1,8.391,8.175l-.112,24.978a108.876,108.876,0,0,1,5.883,17.843c1.24,5.916,1.1,13.088,1,17.835-.034,1.655-.064,3.217,0,3.828a35.617,35.617,0,0,0,1.13,4.574,33.683,33.683,0,0,1,1.429-4.779,29.537,29.537,0,0,1,4.293-6.252c3.706-3.777,10.763-9.13,14.267-13.093,3.587-4.064,10.342-19.062,10.342-19.062A6.1,6.1,0,0,0,814.025,720.541Z" transform="translate(-714.164 -675.308)" fill="#767777"/>
+          <path id="Trazado_142150" data-name="Trazado 142150" d="M772.118,748.137a109.615,109.615,0,0,0-5.972-17.906c.007-.145.029-.291.026-.44l.112-25.022a5.344,5.344,0,0,0-10.684.283l.361,13.69c.022.842-.252,1.606-.612,1.7s-.716-.5-.8-1.342l-2.28-23.994a5.345,5.345,0,1,0-10.642,1.01l2.454,25.787c.08.839-.088,1.58-.371,1.659s-.7-.522-.914-1.334l-8.169-30.484a5.343,5.343,0,1,0-10.323,2.767l8.167,30.479c.218.821.076,1.562-.314,1.667s-.993-.429-1.344-1.2L720.049,701.9a5.345,5.345,0,0,0-9.722,4.447s10.147,20.031,12.411,27.144c1.007,3.165,2.382,11.635,2.919,15.1.13.835-.131.933-.578.217l-8.349-13.339a6.107,6.107,0,1,0-10.737,5.823s6.755,15,10.343,19.061c3.5,3.963,10.562,9.317,14.267,13.093a29.46,29.46,0,0,1,4.291,6.256c.917,1.986,2.266,8.455,2.266,8.455l38.173-10.23a69.207,69.207,0,0,1-2.266-8.455C772.8,766.788,773.775,756.04,772.118,748.137Z" transform="translate(-705.253 -677.051)" fill="#767777"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

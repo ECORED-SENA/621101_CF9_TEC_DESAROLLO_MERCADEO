@@ -5,8 +5,8 @@ div
 
   .titulo-principal
     .titulo-principal__numero
-      .h3 1
-    .h3 Título principal, 30pt
+      .h4 1
+    .h4 Título principal, 30pt
 
   p.mb-5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus id, vulputate turpis. Maecenas cursus ante a diam porttitor mollis. Etiam vehicula dictum diam, eu pulvinar odio ultrices non. Vivamus viverra fermentum tortor, sit amet interdum nisl fermentum sed.
 

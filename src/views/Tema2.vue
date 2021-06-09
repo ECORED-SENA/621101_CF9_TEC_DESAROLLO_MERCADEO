@@ -4,8 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3
-          i.title-num 2
+        .h3.title-num 2
       .h3 Comunicación integral
     .row.mt-5
       .col
@@ -38,18 +37,18 @@
         p.mt-4 Según #[strong Kotler y Armstrong (2013)], las comunicaciones integradas de marketing (CIM) implican la integración cuidadosa y coordinada de todos los canales de comunicación que la empresa utiliza, para entregar un mensaje claro, coherente y convincente sobre la organización y sus productos. En este sentido, se requiere conocer todos los puntos de contacto con el cliente, ya que cada uno genera un mensaje bueno, malo, neutro, claro, coherente y positivo. La estrategia total de comunicación de marketing, encaminada a forjar relaciones con los clientes, mostrando cómo la empresa y su oferta los ayudan a resolver sus problemas y satisfacer sus necesidades #[strong (Estrella y Segovia, 2016).]
     p.mt-5 #[strong Estrella y Segovia (2016)] explican a continuación las opciones comunicativas y los canales de comunicación integrada.
     figure.mt-5
-      img(src="@/assets/template/tema-2-5.png", alt="Texto que describa la imagen")
+      img(src="@/assets/template/tema-2-5.svg", alt="Texto que describa la imagen")
     figcaption Referencia SENA
     .h5.mt-5 Tipos de comunicación integral
     p.mt-5 De acuerdo con #[strong Ocampo (2014)], se describen a continuación los tipos de comunicación que se deben establecer en la organización para la realización de un plan de comunicación integral. 
     TabsB.mt-5
-      .py-4.py-md-5(titulo="1.	Comunicación interna: ")
+      .py-4.py-md-5(titulo="1.	Comunicación interna ")
         .row
           .col-lg-6.d-none.d-md-block
             figure
               img(src='@/assets/template/tema-2-2.png', alt='Texto que describa la imagen') 
           .col-12.col-lg-6
-            .h4 Comunicación interna: 
+            .h6 Comunicación interna
             p.mt-4 Se da al interior de la organización y está dispuesta de tres formas:
             .row.mt-3
               .col-12
@@ -57,22 +56,22 @@
                   li
                     .lista-ol--cuadro__vineta
                       span.text-white a
-                    | #[strong Descendente:] la comunicación de las disposiciones de la gerencia para el desarrollo de funciones, tareas, roles, entrenamiento, capacitación, directivas, directrices, políticas, entre otras. Debe irradiar en todos los niveles de la organización en la relación quién ordena y quién cumple.
+                    p #[strong Descendente:] la comunicación de las disposiciones de la gerencia para el desarrollo de funciones, tareas, roles, entrenamiento, capacitación, directivas, directrices, políticas, entre otras. Debe irradiar en todos los niveles de la organización en la relación quién ordena y quién cumple.
                   li
                     .lista-ol--cuadro__vineta
                       span.text-white b
-                    | #[strong Ascendente:] regula el clima organizacional e incluye la participación en las decisiones a los empleados. Es necesario que se estimule la convivencia significativa de las personas, donde la realización personal sea el fin de la propia organización.
+                    p #[strong Ascendente:] regula el clima organizacional e incluye la participación en las decisiones a los empleados. Es necesario que se estimule la convivencia significativa de las personas, donde la realización personal sea el fin de la propia organización.
                   li
                     .lista-ol--cuadro__vineta
                       span.text-white c
-                    | #[strong Horizontal:] flujo de información entre las unidades de la organización. Se requiere de una comunicación horizontal entre personas, entre grupos, entre departamentos y entre todos los públicos de la organización, de igual a igual.
-      .py-4.py-md-5(titulo="2.	Comunicación externa: ")
+                    p #[strong Horizontal:] flujo de información entre las unidades de la organización. Se requiere de una comunicación horizontal entre personas, entre grupos, entre departamentos y entre todos los públicos de la organización, de igual a igual.
+      .py-4.py-md-5(titulo="2.	Comunicación externa ")
         .row
           .col-lg-6.d-none.d-md-block
             figure
               img(src='@/assets/template/tema-2-3.png', alt='Texto que describa la imagen') 
           .col-12.col-lg-6
-            .h4 Comunicación externa
+            .h6 Comunicación externa
             p.mt-4 Se da para interrelacionarse con los diferentes públicos de la organización e incluye las siguientes formas:
             .row.mt-3
               .col-12
@@ -80,15 +79,15 @@
                   li
                     .lista-ol--cuadro__vineta
                       span.text-white a
-                    | #[strong Comunicación comercial:] comprende las relaciones comunicativas que se deben establecer con el cliente, los proveedores, los competidores y los medios de comunicación. Se desprenden las actividades publicitarias de sus productos a través de los medios de comunicación: cuñas radiales, comerciales para televisión y cine, impresos, vallas, anuncios virtuales, etc.
+                    p #[strong Comunicación comercial:] comprende las relaciones comunicativas que se deben establecer con el cliente, los proveedores, los competidores y los medios de comunicación. Se desprenden las actividades publicitarias de sus productos a través de los medios de comunicación: cuñas radiales, comerciales para televisión y cine, impresos, vallas, anuncios virtuales, etc.
                   li
                     .lista-ol--cuadro__vineta
                       span.text-white b
-                    | #[strong Comunicación pública:] se establecen relaciones de obligatoriedad con el gobierno; el pago de impuestos, las disposiciones técnicas y legales, el régimen laboral y las normas ambientales, entre otras. Relaciones con las organizaciones no gubernamentales, con quienes se pudiese establecer procesos de investigación y desarrollo, con miras a la producción de conocimiento. Relaciones con la comunidad, como directo beneficiario de las acciones del orden social de la organización y donde se establece el impacto de las acciones productivas de la misma. Relaciones empresariales, dispuestas por las necesidades de diálogo con los directos competidores y con la finalidad de asociación para la constitución de proyectos, alianzas estratégicas, gremios, etc.
+                    p #[strong Comunicación pública:] se establecen relaciones de obligatoriedad con el gobierno; el pago de impuestos, las disposiciones técnicas y legales, el régimen laboral y las normas ambientales, entre otras. Relaciones con las organizaciones no gubernamentales, con quienes se pudiese establecer procesos de investigación y desarrollo, con miras a la producción de conocimiento. Relaciones con la comunidad, como directo beneficiario de las acciones del orden social de la organización y donde se establece el impacto de las acciones productivas de la misma. Relaciones empresariales, dispuestas por las necesidades de diálogo con los directos competidores y con la finalidad de asociación para la constitución de proyectos, alianzas estratégicas, gremios, etc.
                   li
                     .lista-ol--cuadro__vineta
                       span.text-white c
-                    | #[strong Stakeholders] Por último, relaciones con los públicos denominados stakeholders, considerados como aquellos agentes identificables que en una situación específica podrían condicionar el buen nombre de la organización en perjuicio de su actividad productiva.
+                    p #[strong Stakeholders] Por último, relaciones con los públicos denominados stakeholders, considerados como aquellos agentes identificables que en una situación específica podrían condicionar el buen nombre de la organización en perjuicio de su actividad productiva.
     .titulo-segundo.mt-5
       #t_2_1.h4 2.1  Plan de comunicación integral
     .row.borde-gris.p-5
@@ -102,7 +101,7 @@
     .row.mt-5
       .col-12.bg-gris.p-5.text-align-center
         figure
-          img(src='@/assets/template/tema-2-6.png', alt='Texto que describa la imagen')
+          img(src='@/assets/template/tema-2-6.svg', alt='Texto que describa la imagen')
       figcaption Referencia SENA
     p.mt-5 Cabe resaltar que para la formulación de un plan de comunicación la empresa debe elaborar un documento llamado #[strong briefing], que contiene información relativa al público objetivo, posicionamiento de la marca/empresa, promesa o beneficio del producto/servicio que ofrece la empresa, tono de la comunicación deseado, eje y concepto de la comunicación, presupuesto disponible, etc., que ayude a identificar las necesidades comunicativas de la empresa. 
     .row.mt-5
@@ -157,22 +156,19 @@
     ul.lista-ul.mt-3
       li.mb-0 
         .row
-          .col-1.text-align-right
-            i.fas.fa-angle-right.color-c.text-center
-          .col-11
-            p Un texto    
+          .col-12
+            i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+            | Un texto    
       li.mb-0.mt-2 
         .row
-          .col-1.text-align-right
-            i.fas.fa-angle-right.color-c.text-center
-          .col-11
-            p Un video donde se demuestra el uso del producto
+          .col-12
+            i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+            | Un video donde se demuestra el uso del producto
       li.mb-0.mt-2 
         .row
-          .col-1.text-align-right
-            i.fas.fa-angle-right.color-c.text-center
-          .col-11
-            p Imágenes con la satisfacción del cliente. 
+          .col-12
+            i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+            | Imágenes con la satisfacción del cliente. 
           li.mt-4
             .lista-ol--cuadro__vineta
               span.text-white b
@@ -180,22 +176,19 @@
     ul.lista-ul.mt-3
       li.mb-0 
         .row
-          .col-1.text-align-right
-            i.fas.fa-angle-right.color-c.text-center
-          .col-11
-            p Social media    
+          .col-12
+            i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+            | Social media    
       li.mb-0.mt-2 
         .row
-          .col-1.text-align-right
-            i.fas.fa-angle-right.color-c.text-center
-          .col-11
-            p Correo electrónico
+          .col-12
+            i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+            | Correo electrónico
       li.mb-0.mt-2 
         .row
-          .col-1.text-align-right
-            i.fas.fa-angle-right.color-c.text-center
-          .col-11
-            p Página o sitio web y se observa el historial de testimonios de clientes satisfechos.
+          .col-12
+            i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+            | Página o sitio web y se observa el historial de testimonios de clientes satisfechos.
     .titulo-segundo.mt-5
       #t_2_3.h4 2.3  Insight
     .row.mt-5
@@ -204,7 +197,7 @@
           .col-4.d-none.d-lg-block.align-self-center
             figure(style='margin-left: 55px; position:relative ; z-index:  99;')
               img(src="@/assets/template/tema-2-12.png", alt="Texto que describa la imagen")
-          .col-12.col-lg-8.align-self-center.p-5.bg-amarillo-claro.rounded
+          .col-12.col-lg-8.align-self-center.p-5.rounded(style='background-color: rgba(255, 217, 71, 0.25) ;')
             .row
               .col-11.offset-1
                 p.mt-3 Un insight es una experiencia verdadera y relevante para el consumidor que se expresa con el lenguaje del consumidor. Trata de conectar con lo más profundo que hay en él, considerándole siempre como «persona» #[strong (Ayestarán et al., 2012).] 
@@ -213,45 +206,42 @@
     .row.mt-5
       .col-12
         ol.lista-ol--cuadro
-          li
+          li(style="border-bottom: 1px solid #AFAFAF; padding-bottom: 10px;")
             .lista-ol--cuadro__vineta
               span.text-white 1
             | ¿A quiénes está tratando de llegar y qué insight tiene sobre cómo piensan, sienten y actúan? 
-          li.mt-4
+          li.mt-4(style="border-bottom: 1px solid #AFAFAF; padding-bottom: 10px;")
             .lista-ol--cuadro__vineta
               span.text-white 2
             | ¿Cómo deberían responder a su mensaje publicitario?
-          li.mt-4
+          li.mt-4(style="border-bottom: 1px solid #AFAFAF; padding-bottom: 10px;")
             .lista-ol--cuadro__vineta
               span.text-white 3
             | Un insight clave exhibe el factor de relevancia, es decir, la razón por la que un consumidor se interesa en un mensaje de marca.
-          li.mt-4
+          li.mt-4(style="border-bottom: 1px solid #AFAFAF; padding-bottom: 10px;")
             .lista-ol--cuadro__vineta
               span.text-white 4
-            | Los insights de los consumidores revelan la naturaleza interna de sus pensamientos como los estados de ánimo, motivaciones, deseos, aspiraciones y motivos que desencadenan sus actitudes y acciones.
+            p Los insights de los consumidores revelan la naturaleza interna de sus pensamientos como los estados de ánimo, motivaciones, deseos, aspiraciones y motivos que desencadenan sus actitudes y acciones.#[strong (Wells et al. 2007)].
           li.mt-4
             .lista-ol--cuadro__vineta
               span.text-white 5
             | Algunos ejemplos reales de publicidad y el uso de insight:
-        ul.lista-ul.mt-3
+        ul.lista-ul.mt-3(style="border-bottom: 1px solid #AFAFAF; padding-bottom: 10px;")
           li.mb-0 
             .row
-              .col-1.text-align-right
-                i.fas.fa-angle-right.color-c.text-center
-              .col-11
-                p Volkswagen, “El día de la boda es el día más feliz para una mujer, pero no para su padre”.    
+              .col-12
+                i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+                | Volkswagen, “El día de la boda es el día más feliz para una mujer, pero no para su padre”.    
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
-                i.fas.fa-angle-right.color-c.text-center
-              .col-11
-                p Bancolombia, “En Colombia, todos son hinchas de un equipo local, pero cuando un jugador de nuestro país juega en el exterior nos volvemos hinchas del jugador”.
+              .col-12
+                i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+                | Bancolombia, “En Colombia, todos son hinchas de un equipo local, pero cuando un jugador de nuestro país juega en el exterior nos volvemos hinchas del jugador”.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
-                i.fas.fa-angle-right.color-c.text-center
-              .col-11
-                p Mama Luchetti, “Los hijos piden juguetes a diario, las mamás los evitan a diario
+              .col-12
+                i.fas.fa-angle-right.color-c.text-center(style="margin-right: .8rem; margin-left: 2rem")
+                | Mama Luchetti, “Los hijos piden juguetes a diario, las mamás los evitan a diario”.
     .titulo-segundo.mt-5
       #t_2_4.h4 2.4  Percepción
     .row.mt-5
@@ -260,7 +250,7 @@
           .col-3.d-none.d-lg-block.align-self-center
             figure(style='margin-left: 55px; position:relative ; z-index:  99;')
               img(src="@/assets/template/tema-2-13.png", alt="Texto que describa la imagen")
-          .col-12.col-lg-9.align-self-center.p-5.bg-rojo-claro.rounded
+          .col-12.col-lg-9.align-self-center.p-5.rounded(style='background-color: rgba(151, 24, 26, 0.2) ;')
             .row
               .col-11.offset-1
                 p.mt-3 Una persona motivada está lista para actuar. La forma en que se comporte estará influida por su propia percepción acerca de la situación. Todos aprendemos gracias al flujo de información que llega a nuestros cinco sentidos: vista, oído, olfato, tacto y gusto. Sin embargo, cada uno de nosotros recibe, organiza e interpreta la información sensorial de manera individual. 
@@ -277,7 +267,7 @@ export default {
       {
         titulo: 'La atención selectiva',
         texto:
-          'Tendencia de los individuos a filtrar la mayor parte de la información a la que se ven expuestos— implica que los especialistas en marketing deben trabajar intensamente para llamar la atención del consumidor. Aún los estímulos percibidos no siempre se captan en la forma deseada. Cada persona ajusta la información de entrada en un esquema mental existente',
+          'Tendencia de los individuos a filtrar la mayor parte de la información a la que se ven expuestos— implica que los especialistas en marketing deben trabajar intensamente para llamar la atención del consumidor. Aún los estímulos percibidos no siempre se captan en la forma deseada. Cada persona ajusta la información de entrada en un esquema mental existente.',
         imagen: require('@/assets/template/tema-2-14.png'),
       },
       {

@@ -75,12 +75,12 @@ export default {
       },
     ],
     subMenu: [
-      {
+      /* {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      }, */
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -110,42 +110,81 @@ export default {
   },
   creditos: {
     liderEquipo: {
-      nombre: 'Claudia Juliana León Pinto',
-      cargo: 'Experta temática',
-      centro: 'Centro de servicio empresariales y turísticos',
-      regional: 'Regional Santander',
+      nombre: 'Maria Camila Garcia Santamaria',
+      cargo: 'Líder del equipo',
     },
     contenidoInstruccional: [
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor Pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura.',
+        nombre: 'Rafael Nelftalí Lizcano Reyes',
+        cargo: 'Asesor pedagógico',
+        centro: 'Centro Industrial Del Diseño Y La Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Claudia Juliana León Pinto',
+        cargo: 'Experta tematica ',
+        centro: 'Centro de Servicios Empresariales y Turísticos',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora Instruccional ',
+        centro: 'Centro de Gestión Industrial',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Servicios Empresariales y Turísticos',
         regional: 'Regional Santander',
       },
       {
         nombre: 'Uriel Darío González Montoya',
         cargo: 'Acompañamiento pedagógico',
-        centro: 'Centro Agropecuario La Granja.',
+        centro: 'Centro Agropecuario La Granja',
         regional: 'Regional Tolima',
       },
     ],
     desarrolloProducto: [
       {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Gestión Industrial',
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
       },
       {
-        nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Diseñador Instruccional',
-        centro: 'Centro agropecuario La Granja',
-        regional: 'Regional Tolima',
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+      },
+      {
+        nombre: ['Luis Fernando Sarmiento Betancourth'],
+        cargo: 'Diseño web',
+      },
+      {
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Lady Adriana Ariza Luque',
+          'Nelson Vera Briceño',
+          'Arnulfo Beltrán Mojica',
+          'Victor Cardenas',
+        ],
+        cargo: 'Producción audiovisual',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
@@ -256,7 +295,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Agencia de publicidad/ advertising agency',
+      termino: 'Agencia de publicidad / advertising agency',
       significado:
         'Es una empresa especializada en prestar servicios publicitarios a los anunciantes. Los servicios básicos que presta una agencia, para ser reconocida como tal por las asociaciones y entidades calificadoras en la mayoría de los países, son: estrategia de comunicación, creatividad y planificación y compra de medios. Las agencias ofrecen, asimismo, servicios de producción gráfica y audiovisual, es decir, la realización de piezas publicitarias para todos los medios: televisión, cine, diarios, revistas, radio, vía pública, material de punto de venta y promocional, impresos, folletos, papelería, etc. Otros servicios habituales son: asesoramiento y/o realización en investigación de mercado, promoción, relaciones públicas e institucionales, marketing directo y de relación.',
     },
@@ -352,7 +391,7 @@ export default {
     {
       texto:
         'Beltrán, A., Melchor, M. y Álvarez, A. (2014). Percepción de los usuarios sobre la imagen corporativa y su relación con la identidad institucional. Universidad Autónoma de Occidente.',
-      tipo: 'Articulo ',
+      tipo: 'Artículo ',
       link:
         'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/50977 ',
     },
@@ -410,7 +449,7 @@ export default {
     },
     {
       texto:
-        'Rueda, M. y Zambrano, M. (2018). Manual De Ergonomía Y Seguridad (2ª ed.). Alfaomega.',
+        'Rueda, M. y Zambrano, M. (2018). Manual de Ergonomía y Seguridad (2ª ed.). Alfaomega.',
       tipo: 'Libro',
       link:
         'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/auth/ip?intended_url=https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/reader/manual-de-ergonomia-y-seguridad-segunda-edicion-1?location=172',
