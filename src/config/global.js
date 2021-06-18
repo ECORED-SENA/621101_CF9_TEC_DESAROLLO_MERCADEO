@@ -116,8 +116,8 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Nelftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial Del Diseño Y La Manufactura',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
@@ -128,13 +128,13 @@ export default {
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Diseñadora Instruccional ',
+        cargo: 'Diseñadora instruccional ',
         centro: 'Centro de Gestión Industrial',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Centro de Servicios Empresariales y Turísticos',
         regional: 'Regional Santander',
       },
@@ -160,19 +160,19 @@ export default {
       },
       {
         nombre: [
-          'Zuleidy Maria Ruiz Torres',
-          'Wilson Andrés Arenales Caceres',
+          'Arnulfo Beltrán Mojica',
           'Gilberto Junior Rodriguez Rodriguez',
           'Lady Adriana Ariza Luque',
           'Nelson Vera Briceño',
-          'Arnulfo Beltrán Mojica',
           'Victor Cardenas',
+          'Wilson Andrés Arenales Caceres',
+          'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Producción audiovisual',
       },
       {
         nombre: 'Lizeth Karina Manchego Suárez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
       },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
@@ -185,7 +185,7 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: ['Validación y vinculación en plataforma LMS'],
-        centro: 'Centro de comercio y servicios',
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],
@@ -437,8 +437,7 @@ export default {
       texto:
         'O’Guinn, T., Allen, C. y Semenik, R. (2013). Publicidad y promoción integral de marca (6ª ed.). Cengage Learning.',
       tipo: 'Libro',
-      link:
-        'https://www.academia.edu/36447090/Publicidad_y_Promoci%C3%B3n_Integral_de_Marca_Publicidad_y_Promoci%C3%B3n_Integral_de_Marca',
+      link: '/downloads/Publicidad_y_Promocion_Integral_de_Marca.pdf',
     },
     {
       texto:

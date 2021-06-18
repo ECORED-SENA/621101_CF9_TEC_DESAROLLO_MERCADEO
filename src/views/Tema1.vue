@@ -14,7 +14,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             .h4 Planes de mercadeo
-            p En la formulación de planes de mercadeo, se tienen en cuenta los diferentes grupos presentes en la compañía, como la alta dirección, finanzas, investigación y desarrollo, compras, operaciones, recursos humanos y contabilidad. Todos estos grupos interrelacionados conforman el ambiente interno. Por ejemplo, la alta dirección establece la misión, los objetivos, las estrategias generales y las políticas de la empresa, y el área de marketing toma decisiones de acuerdo con las estrategias y los planes diseñados, trabajando en conjunto para la comprensión de las necesidades de los clientes y la creación de valor #[strong (Kotler y Armstrong, 2017).]
+            p En la formulación de planes de mercadeo, se tienen en cuenta los diferentes grupos presentes en la compañía, como la alta dirección, finanzas, investigación y desarrollo, compras, operaciones, recursos humanos y contabilidad. Todos estos grupos interrelacionados conforman el ambiente interno. Por ejemplo, la alta dirección establece la misión, los objetivos, las estrategias generales y las políticas de la empresa, y el área de marketing toma decisiones de acuerdo con las estrategias y los planes diseñados, trabajando en conjunto para la comprensión de las necesidades de los clientes y la creación de valor. #[strong (Kotler y Armstrong, 2017).]
           .col-md-6.justify-content-center.align-self-center
             figure
               img(src='@/assets/template/tema-1-5.png', alt='Texto que describa la imagen') 
@@ -30,7 +30,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             .h4 El endomarketing y las ventas
-            p El endomarketing para el área de las ventas se representa en la fuerza de venta externa e interna. Los vendedores externos se desplazan para visitar a los clientes, mientras que los vendedores internos realizan negocios desde su oficina por medio del teléfono, mediante interacciones en línea en social media o, bien, reciben visitas de compradores potenciales. Las ventas internas se han incrementado por el auge de las tecnologías en línea, móviles y de social media. Algunos vendedores internos apoyan a la fuerza de ventas externa, lo que permite a esta última dedicar más tiempo a fomentar las labores de ventas con cuentas grandes y a encontrar nuevos clientes. El vendedor interno proporciona acceso y apoyo cotidiano, mientras que el externo ofrece colaboración cara a cara y entabla relaciones #[strong (Kotler y Armstrong, 2017).]
+            p El endomarketing para el área de las ventas se representa en la fuerza de venta externa e interna. Los vendedores externos se desplazan para visitar a los clientes, mientras que los vendedores internos realizan negocios desde su oficina por medio del teléfono, mediante interacciones en línea en social media o, bien, reciben visitas de compradores potenciales. Las ventas internas se han incrementado por el auge de las tecnologías en línea, móviles y de social media. Algunos vendedores internos apoyan a la fuerza de ventas externa, lo que permite a esta última dedicar más tiempo a fomentar las labores de ventas con cuentas grandes y a encontrar nuevos clientes. El vendedor interno proporciona acceso y apoyo cotidiano, mientras que el externo ofrece colaboración cara a cara y entabla relaciones. #[strong (Kotler y Armstrong, 2017).]
           .col-md-6.justify-content-center.align-self-center
             figure
               img(src='@/assets/template/tema-1-6.png', alt='Texto que describa la imagen')
@@ -47,7 +47,7 @@
     .row
       .col-12.bg-gris.p-5.text-align-center
         figure
-          img(src='@/assets/template/tema-1-9.png', alt='Texto que describa la imagen').w-75
+          img(src='@/assets/template/tema-1-9.svg', alt='Texto que describa la imagen').w-75
       figcaption Referencia SENA
     p.mt-5 #[strong Chiavenato (2020)] menciona los aspectos fundamentales en la administración moderna para la gestión del talento humano.    
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -128,7 +128,7 @@
                 img(src='@/assets/template/tema-1-15.png', alt='Texto que describa la imagen')
             .col-md-8
               p Tradicionalmente, se escucha la palabra “cliente” para referirse a las personas naturales o jurídicas que adquieren ciertos bienes o servicios. Dentro de las denominaciones más conocidas se destacan: consumidor, comprador, paciente, usuario, estudiante, pasajero, entre otras. Estos, por quienes las empresas invierten recursos para la satisfacción de sus necesidades y expectativas, son conocidos como “clientes externos” de las empresas, en ocasiones, con detrimento de la satisfacción del capital humano –cliente interno–, considerado a través de la historia como el activo número uno de la organización. 
-    p.mt-5 Todas las personas dentro de la compañía que intervienen en procesos generadores de resultados, como productos o servicios entregados a los clientes externos, conforman los #[strong “clientes internos”]. Son las personas que laboran en la organización, que tienen necesidades y expectativas por satisfacer en el interior de la compañía, a través de productos o de servicios que se proveen mediante diferentes medios y procesos #[strong (Martínez, 2016).] 
+    p.mt-5 Todas las personas dentro de la compañía que intervienen en procesos generadores de resultados, como productos o servicios entregados a los clientes externos, conforman los #[strong “clientes internos”]. Son las personas que laboran en la organización, que tienen necesidades y expectativas por satisfacer en el interior de la compañía, a través de productos o de servicios que se proveen mediante diferentes medios y procesos. #[strong (Martínez, 2016).] 
     p.mt-5 #[strong Martínez (2016)] menciona las #[strong características principales que deben tener los clientes internos:] 
     .row.mt-5
       .col-sm.mb-5.mb-sm-0.mt-3
@@ -192,8 +192,6 @@
     figure.mt-5
       img(src='@/assets/template/tema-1-16.png', alt='Texto que describa la imagen')
     .row.mt-5
-      .col-12
-        p #[strong Para Prettel (2016)], los elementos de la comunicación se definen de la siguiente manera:
       .col-12.mt-4
         TabsA.mb-5
           .tarjeta.tarjeta--amarilla--borde.p-4(titulo="“Lo primero, es lo primero”")
@@ -204,12 +202,12 @@
             p.mt-4 Favorece los procesos de fortalecimiento del liderazgo, el sentido de pertenencia, el incremento de la productividad y la creatividad, la motivación y la focalización de los esfuerzos hacia el logro de los resultados. Por ende, ocuparse activamente de la atención al cliente interno es una de las acciones de supervivencia más importantes de cualquier organización, sea pública o privada. 
           .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Servicio “fuera de serie”")
             h4 Servicio “fuera de serie”
-            p.mt-4 Las empresas que valoran la necesidad de brindar un servicio fuera de serie a sus clientes internos tienen bien claro que “la ley entra por casa” y, para ello, invierten esfuerzos importantes en la definición y ejecución de políticas y estrategias de atención a su #[strong público interno], para lograr la motivación y compromiso necesarios hacia su trabajo, su organización y sus colegas #[strong (Martínez, 2016).]          
+            p.mt-4 Las empresas que valoran la necesidad de brindar un servicio fuera de serie a sus clientes internos tienen bien claro que “la ley entra por casa” y, para ello, invierten esfuerzos importantes en la definición y ejecución de políticas y estrategias de atención a su #[strong público interno], para lograr la motivación y compromiso necesarios hacia su trabajo, su organización y sus colegas. #[strong (Martínez, 2016).]          
     p.mt-5 En el siguiente gráfico se explican los beneficios de la calidad del servicio en una organización y los beneficios de tener un cliente interno satisfecho.
     .row.mt-5 
       .col-12.bg-gris.p-5.text-align-center
         figure
-          img(src='@/assets/template/tema-1-17.png', alt='Texto que describa la imagen').w-75
+          img(src='@/assets/template/tema-1-17.svg', alt='Texto que describa la imagen').w-75
       figcaption Referencia SENA
     .titulo-segundo.mt-5
       #t_1_2.h4 1.2  Manual corporativo
@@ -261,7 +259,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             .h4 Identidad de la organización
-            p Cuando la identidad de la organización es clara y bien definida, es el momento de intentar proyectarla hacia los públicos, con el fin de que estos tengan una imagen positiva. Una de las propiedades más importantes de la imagen corporativa es su naturaleza intangible. Está claro que debe ser positiva y que es fundamental para conseguir el éxito empresarial. #[strong (Pintado, 2013)]
+            p Cuando la identidad de la organización es clara y bien definida, es el momento de intentar proyectarla hacia los públicos, con el fin de que estos tengan una imagen positiva. Una de las propiedades más importantes de la imagen corporativa es su naturaleza intangible. Está claro que debe ser positiva y que es fundamental para conseguir el éxito empresarial. #[strong (Pintado, 2013).]
             p.mt-4 #[strong García (2016)] determina dos manuales que deben tener las organizaciones, #[strong el manual de comunicación] y el #[strong manual de identidad corporativa], que sirven para configurar la personalidad corporativa logrando identificar y diferenciar la visibilidad pública en el desarrollo de la estrategia de imagen corporativa.
           .col-md-6.justify-content-center.align-self-center
             figure
@@ -324,7 +322,7 @@
           figure.mb-2
             img(src="@/assets/template/tema-1-30.png", alt="Texto que describa la imagen")
         .col-12.col-md-8
-          p Es la imagen que una persona tenga de una empresa. Por ejemplo, la imagen de Coca-Cola puede ser totalmente diferente. Es posible que un adulto crea que Coca-Cola es una marca clásica, de toda la vida, y la asocie a su refresco habitual; sin embargo, una persona de menor edad la asociará con una marca joven, ligada a la felicidad, la diversión, y que permite el contacto con otros jóvenes a través de su plataforma web. #[strong (Pintado, 2013)]
+          p Es la imagen que una persona tenga de una empresa. Por ejemplo, la imagen de Coca-Cola puede ser totalmente diferente. Es posible que un adulto crea que Coca-Cola es una marca clásica, de toda la vida, y la asocie a su refresco habitual; sin embargo, una persona de menor edad la asociará con una marca joven, ligada a la felicidad, la diversión, y que permite el contacto con otros jóvenes a través de su plataforma web. #[strong (Pintado, 2013).]
       .row(titulo="Sensibilidades y percepciones: ")
         .col-3.d-none.d-md-block
           figure.mb-2
@@ -336,7 +334,7 @@
           figure.mb-2
             img(src="@/assets/template/tema-1-32.png", alt="Texto que describa la imagen")
         .col-12.col-md-8
-          p una marca fuerte crea una importante ventaja para cualquier producto o servicio. Cuando la imagen de una organización o alguna de sus marcas se empaña por alguna razón, los ingresos de las ventas y las utilidades pueden desplomarse. Reconstruir o revitalizar una imagen es una tarea difícil #[strong (Clow y Baack, 2010).]
+          p una marca fuerte crea una importante ventaja para cualquier producto o servicio. Cuando la imagen de una organización o alguna de sus marcas se empaña por alguna razón, los ingresos de las ventas y las utilidades pueden desplomarse. Reconstruir o revitalizar una imagen es una tarea difícil. #[strong (Clow y Baack, 2010).]
       .row(titulo="El marketing:")
         .col-3.d-none.d-md-block
           figure.mb-2
@@ -361,7 +359,7 @@
                 .col-1.text-align-right
                   i.fas.fa-angle-right.color-c.text-center
                 .col-11
-                  p Aunque la versión específica de la imagen varía de un consumidor a otro, o de un comprador empresarial a otro, la imagen global de la empresa queda determinada por los puntos de vista combinados de todos los públicos, los que a su vez pueden tener influencia positiva o negativa en los consumidores #[strong (Clow y Baack, 2010).]
+                  p Aunque la versión específica de la imagen varía de un consumidor a otro, o de un comprador empresarial a otro, la imagen global de la empresa queda determinada por los puntos de vista combinados de todos los públicos, los que a su vez pueden tener influencia positiva o negativa en los consumidores. #[strong (Clow y Baack, 2010).]
       .row(titulo="Identidad sólida: ")
         .col-3.d-none.d-md-block
           figure.mb-2
@@ -411,7 +409,7 @@
                 td Empleados
                 td.borde-izq  
           figcaption Referencia tomada de  Clow y Baack (2010).
-    p.mt-5 Una empresa con una imagen bien establecida facilita la decisión de los clientes empresariales que tratan de reducir el tiempo de búsqueda. El refuerzo psicológico y la aceptación social también pueden estar presentes. Una imagen de empresa o nombre de marca fuerte puede establecer la diferencia en la selección entre competidores #[strong (Clow y Baack, 2010).]
+    p.mt-5 Una empresa con una imagen bien establecida facilita la decisión de los clientes empresariales que tratan de reducir el tiempo de búsqueda. El refuerzo psicológico y la aceptación social también pueden estar presentes. Una imagen de empresa o nombre de marca fuerte puede establecer la diferencia en la selección entre competidores. #[strong (Clow y Baack, 2010).]
     p.mt-5 Desde el punto de vista de la organización, una imagen de renombre genera los siguientes beneficios:
     .row.mt-3
       .col-10
@@ -441,7 +439,6 @@
               span.text-white 6
             | Calificaciones más favorables de observadores y analistas financieros.
     p.mt-5 Para #[strong Pintado (2013)], la imagen corporativa se puede manifestar en multitud de elementos relacionados con la empresa y con las marcas o productos concretos, ya que están íntimamente ligados a las percepciones de la empresa en general. A continuación, se detallan los elementos que habitualmente son asociados con la imagen:
-    p.mt-5 Para #[strong Prettel (2016)], los elementos de la comunicación se definen de la siguiente manera:
     TabsA.mt-4
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Edificios o entornos: ")
         h4 Edificios o entornos: 
@@ -470,7 +467,7 @@
                 img(src='@/assets/template/tema-1-43.png', alt='Texto que describa la imagen')
             .col-md-8
               h5 Cambio de una imagen
-              p Es difícil cambiar por completo la imagen que la gente tiene de una organización. Sin embargo, es necesario cambiar la imagen cuando los mercados captados comienzan a reducirse o a desaparecer, o cuando la imagen de la empresa ya no coincide con las tendencias de la industria y las expectativas de los consumidores. #[strong (Clow y Baack, 2010)]
+              p Es difícil cambiar por completo la imagen que la gente tiene de una organización. Sin embargo, es necesario cambiar la imagen cuando los mercados captados comienzan a reducirse o a desaparecer, o cuando la imagen de la empresa ya no coincide con las tendencias de la industria y las expectativas de los consumidores. #[strong (Clow y Baack, 2010).]
     .row.mt-5
       .col-10.offset-1.borde-top-gris
         .row.py-4
@@ -482,7 +479,7 @@
             p.mt-3 En la siguiente tabla, se puede apreciar la forma en que el nombre corporativo “es, en realidad, la piedra angular de la relación de la empresa con sus clientes. Establece la actitud y el tono, y constituye el primer paso para establecer una personalidad”.
     .row
       .col-12
-        p Nombres corporativos, tipos, representación y ejemplos
+        p.mt-5 Nombres corporativos, tipos, representación y ejemplos
         .tabla-b.mb-5.mt-3
           table(style="table-layout: fixed;").text-center
             thead
@@ -526,7 +523,7 @@
           .col-12
             .cajon.color-primario.py-4.px-5.mb-4(style='background-color: rgba(214, 70, 38, 0.2) ;')
               .h6 Recordación
-              p.mt-4 El reconocimiento de logotipos ocurre cuando el consumidor logra recordar haber visto el logotipo anteriormente. Este se almacena en la memoria y, cuando el consumidor lo ve en la tienda, .
+              p.mt-4 El reconocimiento de logotipos ocurre cuando el consumidor logra recordar haber visto el logotipo anteriormente. Este se almacena en la memoria y, cuando el consumidor lo ve en la tienda, se estimula la memoria.
           .col-12
             .cajon.color-primario.py-4.px-5.mb-4(style='background-color: rgba(214, 70, 38, 0.1) ;')
               .h6 Sentimientos positivos por la marca
@@ -547,7 +544,7 @@
               .col-1.text-align-right
                 i.fas.fa-angle-right.color-c.text-center
               .col-11
-                p Los consumidores recomiendan las marcas a sus familiares y amigos debido a una o más propiedades sobresalientes #[strong (Clow y Baack, 2010).]
+                p Los consumidores recomiendan las marcas a sus familiares y amigos debido a una o más propiedades sobresalientes. #[strong (Clow y Baack, 2010).]
           li.mb-0.mt-2 
             .row
               .col-1.text-align-right
@@ -585,7 +582,7 @@
       .col-6.d-none.d-lg-block.align-self-center
         figure
           img(src='@/assets/template/tema-1-47.png', alt='Texto que describa la imagen')
-    .h5.mt-5 1.2.3  Normativa: salud y seguridad en el trabajo
+    .h5.mt-5 Normativa: salud y seguridad en el trabajo
     .row.mt-5
       .col-5.d-none.d-lg-block.align-self-center
         figure
@@ -593,14 +590,14 @@
       .col-12.col-lg-7
         p OIT es la sigla de la Organización Internacional del Trabajo, que funciona bajo las directrices de la Organización de las Naciones Unidas (ONU). La OIT nació en Ginebra, Suiza, en 1919 y, una vez al año, se reúne la Conferencia Internacional del Trabajo, donde se evalúa el estado de la OIT a nivel mundial, se sacan conclusiones y se dictan normas para el crecimiento mundial de la organización y para legislar en cada país suscrito. En Colombia, la normativa sobre seguridad y salud en el trabajo está regida bajo la Resolución 0312 de 2019, que modifica las fases de implementación del SG-SST.
         p.mt-4 #[strong Rueda y Zambrano (2018)] mencionan que la ergonomía ha profundizado en tres áreas del conocimiento o especialidades en los ámbitos físico, mental y social: la ergonomía física, la ergonomía cognitiva y la ergonomía organizacional.
-    .h6.mt-5 1.2.3.1  Ergonomía
-    p.mt-4 Un trabajo diseñado o abordado según criterios ergonómicos se humaniza, pues prioriza el bienestar, la salud y el crecimiento del trabajador en su rol laboral, blindándolo al máximo de posibles accidentes y enfermedades, al optimizar las condiciones del sistema de trabajo, y paralelamente asegura su calidad y productividad, haciéndolo más eficiente #[strong Rueda y Zambrano (2018)]. 
+    .h6.mt-5 Ergonomía
+    p.mt-4 Un trabajo diseñado o abordado según criterios ergonómicos se humaniza, pues prioriza el bienestar, la salud y el crecimiento del trabajador en su rol laboral, blindándolo al máximo de posibles accidentes y enfermedades, al optimizar las condiciones del sistema de trabajo, y paralelamente asegura su calidad y productividad, haciéndolo más eficiente. #[strong Rueda y Zambrano (2018)]. 
     p.mt-4 #[strong Rueda y Zambrano (2018)] mencionan que la ergonomía ha profundizado en tres áreas del conocimiento o especialidades en los ámbitos físico, mental y social: la ergonomía física, la ergonomía cognitiva y la ergonomía organizacional.
     TabsB.mt-5
       .py-4.py-md-5(titulo="Ergonomía física" :icono="require('@/assets/template/tema-1-49.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
-            .h6 Ergonomía física:  
+            .h6 Ergonomía física  
             p Esta rama se basa en el reconocimiento de las capacidades y limitaciones humanas desde los componentes anatómico, antropométrico, fisiológico y biomecánico en su relación con el trabajo. 
             p #[strong En el contexto de prevención] de riesgos o salud laboral, la aplicación de la ergonomía física predominará sobre las otras dos especialidades, debido, entre otras cosas, a la alta presentación de enfermedades osteomusculares en las industrias. 
             p #[strong Dentro de la ergonomía física], se establecen lineamientos para regular la exposición a actividades con manipulación manual de cargas, posturas de trabajo, movimientos de alta frecuencia o movimientos repetitivos y sobreesfuerzos. 
@@ -611,17 +608,17 @@
       .py-4.py-md-5(titulo="Ergonomía cognitiva" :icono="require('@/assets/template/tema-1-50.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
-            .h6 Ergonomía cognitiva: 
+            .h6 Ergonomía cognitiva 
             p Según lo define la Asociación Internacional de Ergonomía (IEA), con esta especialidad se hace seguimiento a los procesos mentales que exigen las tareas, tales como la percepción, la memoria, el razonamiento y la respuesta motora, que afectan las interacciones entre los seres humanos y los otros elementos de un sistema. 
-            p #[strong Carga mental]. Todas las actividades laborales y extra laborales incluyen requerimientos variables de carga mental. Para controlar una posible sobrexposición y, con ello, consecuencias indeseadas con efecto en la persona o en el proceso productivo. 
-            p #[strong Aportes de la ergonomía cognitiva]. La ergonomía cognitiva aporta información para no exceder las capacidades individuales en acciones que incluyan, por ejemplo, la toma de decisiones, el uso de interfaces y controles para la interacción con equipos o máquinas, el uso de volúmenes significativos de información para situaciones particulares del trabajo, la manipulación de información compleja con inclusión de cálculos matemáticos o ambigüedad, entre otras.
+            p #[strong Carga mental.] Todas las actividades laborales y extra laborales incluyen requerimientos variables de carga mental. Para controlar una posible sobrexposición y, con ello, consecuencias indeseadas con efecto en la persona o en el proceso productivo. 
+            p #[strong Aportes de la ergonomía cognitiva.] La ergonomía cognitiva aporta información para no exceder las capacidades individuales en acciones que incluyan, por ejemplo, la toma de decisiones, el uso de interfaces y controles para la interacción con equipos o máquinas, el uso de volúmenes significativos de información para situaciones particulares del trabajo, la manipulación de información compleja con inclusión de cálculos matemáticos o ambigüedad, entre otras.
           .col-md-4.justify-content-center.align-self-center
             figure
               img(src='@/assets/template/tema-1-53.svg', alt='Texto que describa la imagen')
       .py-4.py-md-5(titulo="Ergonomía organizacional" :icono="require('@/assets/template/tema-1-51.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
-            .h6 Ergonomía organizacional:
+            .h6 Ergonomía organizacional
             p Para la IEA, esta rama de la ergonomía se orienta al diseño y la optimización de sistemas sociotécnicos (interacciones entre la tecnología, métodos de producción y las personas), incluyendo la estructura organizacional, políticas y procesos. Con la ergonomía organizacional se desarrollan requerimientos para que la organización y administración del trabajo se construyan teniendo en cuenta la mayor productividad posible, pero considerando que las exigencias al trabajador estén dentro de los límites establecidos por la ergonomía física y la cognitiva.
           .col-md-4.justify-content-center.align-self-center
             figure
@@ -658,7 +655,7 @@
       .col-8.offset-2.py-4.px-5.bg-amarillo-claro.borde-der-amarillo
         .h6 Restricciones de la intervención correctiva 
         p.mt-4 Al intentar modificar lo existente, este tipo de intervención casi siempre resulta costosa y presenta restricciones para hacer cambios completamente efectivos.
-    .h6.mt-5 1.2.3.2 Carga física de trabajo
+    .h6.mt-5 Carga física de trabajo
     .row.mt-5
       .col-12.col-lg-6
         p La carga física, definida como la cantidad o carga de energía que demanda la ejecución de una labor o trabajo, depende no solo de la exigencia por sí misma de la labor y de su condición ambiental, sino de la capacidad física de cada individuo.
@@ -677,7 +674,7 @@
           figure.mb-2
             img(src="@/assets/template/tema-1-58.png", alt="Texto que describa la imagen")
         .col-12.col-md-8
-          p En la industria se desarrollan procesos que requieren la presencia de los trabajadores para cumplir con tareas donde priman el trabajo manual, la aplicación de fuerza y otras exigencias físicas. Cuando dichas exigencias superan las capacidades individuales, pueden acarrear molestia, fatiga y, en casos crónicos, afecciones en el cuerpo denominadas lesiones de trauma acumulativo (LTA), o desórdenes o trastornos músculo esqueléticos (DME o TME), que comprenden un grupo heterogéneo de diagnósticos que abarcan alteraciones de músculos, tendones, vainas tendinosas, síndromes de atrapamientos nerviosos, discopatías o alteraciones en el disco intervertebral, alteraciones articulares y neurovasculares #[strong (Rueda y Zambrano, 2018).]
+          p En la industria se desarrollan procesos que requieren la presencia de los trabajadores para cumplir con tareas donde priman el trabajo manual, la aplicación de fuerza y otras exigencias físicas. Cuando dichas exigencias superan las capacidades individuales, pueden acarrear molestia, fatiga y, en casos crónicos, afecciones en el cuerpo denominadas lesiones de trauma acumulativo (LTA), o desórdenes o trastornos músculo esqueléticos (DME o TME), que comprenden un grupo heterogéneo de diagnósticos que abarcan alteraciones de músculos, tendones, vainas tendinosas, síndromes de atrapamientos nerviosos, discopatías o alteraciones en el disco intervertebral, alteraciones articulares y neurovasculares. #[strong (Rueda y Zambrano, 2018).]
       .row(titulo="La legislación y normatividad")
         .col-3.d-none.d-md-block
           figure.mb-2
@@ -690,10 +687,10 @@
             img(src="@/assets/template/tema-1-60.png", alt="Texto que describa la imagen")
         .col-12.col-md-8
           p La ergonomía actúa en dos momentos: sobre la persona y sobre el proceso productivo, a través de líneas de acción preventivas, al igual que en la concepción y el diseño de procesos y productos: en sus tareas, ambientes o elementos de trabajo; o de manera correctiva, para cambiar o mejorar situaciones ya implementadas que presentan fallas en su concepción o desarrollo. #[strong (Rueda y Zambrano, 2018)]
-    .h6.mt-5 1.2.3.3  Seguridad y salud en el trabajo
+    .h6.mt-5 Seguridad y salud en el trabajo
     .row.mt-5
       .col-lg-8.align-self-center
-        p La seguridad y la salud en el trabajo se entienden como el conjunto de actividades multidisciplinarias que tienen como objetivo promover, recuperar y rehabilitar la salud de la población trabajadora para protegerla de los riesgos de su ocupación y ubicarla en un ambiente de trabajo, de acuerdo con sus condiciones fisiológicas y psicológicas #[strong (Bedoya, 2018).]
+        p La seguridad y la salud en el trabajo se entienden como el conjunto de actividades multidisciplinarias que tienen como objetivo promover, recuperar y rehabilitar la salud de la población trabajadora para protegerla de los riesgos de su ocupación y ubicarla en un ambiente de trabajo, de acuerdo con sus condiciones fisiológicas y psicológicas. #[strong (Bedoya, 2018).]
         p.mt-4 #[strong Áreas de la seguridad y salud en el trabajo:] los escenarios donde se realiza actividad laboral ofrecen distintas condiciones para los trabajadores; son identificados como áreas de trabajo, y pueden ser favorables o adversas, dependiendo de la condición ofrecida al trabajador. Un área de trabajo puede ser concebida como el espacio destinado a la realización de actividades laborales donde el trabajador debe desempeñar su rol y ejecutar actividades integrantes de un determinado proceso. Se destacan áreas como: administrativas y operativas.
       .col-lg-4
         figure.mb-2
