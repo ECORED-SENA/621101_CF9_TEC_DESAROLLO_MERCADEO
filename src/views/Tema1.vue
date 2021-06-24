@@ -438,8 +438,8 @@
             .lista-ol--cuadro__vineta
               span.text-white 6
             | Calificaciones más favorables de observadores y analistas financieros.
-    p.mt-5 Para #[strong Pintado (2013)], la imagen corporativa se puede manifestar en multitud de elementos relacionados con la empresa y con las marcas o productos concretos, ya que están íntimamente ligados a las percepciones de la empresa en general. A continuación, se detallan los elementos que habitualmente son asociados con la imagen:
-    TabsA.mt-4
+    p.mt-5.mb-5 Para #[strong Pintado (2013)], la imagen corporativa se puede manifestar en multitud de elementos relacionados con la empresa y con las marcas o productos concretos, ya que están íntimamente ligados a las percepciones de la empresa en general. A continuación, se detallan los elementos que habitualmente son asociados con la imagen:
+    TabsA.mt-5
       .tarjeta.tarjeta--amarilla--borde.p-4(titulo="Edificios o entornos: ")
         h4 Edificios o entornos: 
         p.mt-4 Los edificios corporativos son fundamentales desde el punto de vista de la imagen, ya que su aspecto externo puede asociarse con la tradición, modernidad o prestigio. También es importante la zona donde estén ubicados.
@@ -589,9 +589,8 @@
           img(src='@/assets/template/tema-1-48.png', alt='Texto que describa la imagen')
       .col-12.col-lg-7
         p OIT es la sigla de la Organización Internacional del Trabajo, que funciona bajo las directrices de la Organización de las Naciones Unidas (ONU). La OIT nació en Ginebra, Suiza, en 1919 y, una vez al año, se reúne la Conferencia Internacional del Trabajo, donde se evalúa el estado de la OIT a nivel mundial, se sacan conclusiones y se dictan normas para el crecimiento mundial de la organización y para legislar en cada país suscrito. En Colombia, la normativa sobre seguridad y salud en el trabajo está regida bajo la Resolución 0312 de 2019, que modifica las fases de implementación del SG-SST.
-        p.mt-4 #[strong Rueda y Zambrano (2018)] mencionan que la ergonomía ha profundizado en tres áreas del conocimiento o especialidades en los ámbitos físico, mental y social: la ergonomía física, la ergonomía cognitiva y la ergonomía organizacional.
     .h6.mt-5 Ergonomía
-    p.mt-4 Un trabajo diseñado o abordado según criterios ergonómicos se humaniza, pues prioriza el bienestar, la salud y el crecimiento del trabajador en su rol laboral, blindándolo al máximo de posibles accidentes y enfermedades, al optimizar las condiciones del sistema de trabajo, y paralelamente asegura su calidad y productividad, haciéndolo más eficiente. #[strong Rueda y Zambrano (2018)]. 
+    p.mt-4 Un trabajo diseñado o abordado según criterios ergonómicos se humaniza, pues prioriza el bienestar, la salud y el crecimiento del trabajador en su rol laboral, blindándolo al máximo de posibles accidentes y enfermedades, al optimizar las condiciones del sistema de trabajo, y paralelamente asegura su calidad y productividad, haciéndolo más eficiente. #[strong (Rueda y Zambrano 2018)]. 
     p.mt-4 #[strong Rueda y Zambrano (2018)] mencionan que la ergonomía ha profundizado en tres áreas del conocimiento o especialidades en los ámbitos físico, mental y social: la ergonomía física, la ergonomía cognitiva y la ergonomía organizacional.
     TabsB.mt-5
       .py-4.py-md-5(titulo="Ergonomía física" :icono="require('@/assets/template/tema-1-49.svg')")

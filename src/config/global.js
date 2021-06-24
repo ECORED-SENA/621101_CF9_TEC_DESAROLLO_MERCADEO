@@ -161,11 +161,11 @@ export default {
       {
         nombre: [
           'Arnulfo Beltrán Mojica',
-          'Gilberto Junior Rodriguez Rodriguez',
+          'Gilberto Junior Rodríguez Rodríguez',
           'Lady Adriana Ariza Luque',
-          'Nelson Vera Briceño',
-          'Victor Cardenas',
-          'Wilson Andrés Arenales Caceres',
+          'Nelson Iván Vera Briceño',
+          'Víctor Raúl Cardenas Cáceres',
+          'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Producción audiovisual',
