@@ -365,7 +365,7 @@
           figure.mb-2
             img(src="@/assets/template/tema-1-34.png", alt="Texto que describa la imagen")
         .col-12.col-md-8
-          p Se puede construir desde el interior de la empresa a partir de una sólida identidad, tanto cultural y filosófica como visual, y se refleja en cualidades y atributos tanto cognitivos como emocionales. Estos aspectos son comunicados a sus diferentes públicos con el propósito de crear esta imagen deseada en la mente del consumidor. Por lo tanto, se asevera que el fortalecimiento de la imagen corporativa es externo a la organización y será un éxito si la asociación que hacen los públicos entre la imagen deseada por la empresa y la imagen real es positiva (Beltrán et al. 2014).
+          p Se puede construir desde el interior de la empresa a partir de una sólida identidad, tanto cultural y filosófica como visual, y se refleja en cualidades y atributos tanto cognitivos como emocionales. Estos aspectos son comunicados a sus diferentes públicos con el propósito de crear esta imagen deseada en la mente del consumidor. Por lo tanto, se asevera que el fortalecimiento de la imagen corporativa es externo a la organización y será un éxito si la asociación que hacen los públicos entre la imagen deseada por la empresa y la imagen real es positiva. (Beltrán et al. 2014).
     p.mt-5 Cabe aún señalar los componentes de la imagen corporativa. Según #[strong Beltrán et al. (2014)], los dos componentes fundamentales que conforman la identidad corporativa son la identidad conceptual y la identidad visual. Se pueden apreciar en el gráfico a continuación.
     .h5.mt-5 Identidad conceptual
     figure.mt-4
@@ -590,7 +590,7 @@
       .col-12.col-lg-7
         p OIT es la sigla de la Organización Internacional del Trabajo, que funciona bajo las directrices de la Organización de las Naciones Unidas (ONU). La OIT nació en Ginebra, Suiza, en 1919 y, una vez al año, se reúne la Conferencia Internacional del Trabajo, donde se evalúa el estado de la OIT a nivel mundial, se sacan conclusiones y se dictan normas para el crecimiento mundial de la organización y para legislar en cada país suscrito. En Colombia, la normativa sobre seguridad y salud en el trabajo está regida bajo la Resolución 0312 de 2019, que modifica las fases de implementación del SG-SST.
     .h6.mt-5 Ergonomía
-    p.mt-4 Un trabajo diseñado o abordado según criterios ergonómicos se humaniza, pues prioriza el bienestar, la salud y el crecimiento del trabajador en su rol laboral, blindándolo al máximo de posibles accidentes y enfermedades, al optimizar las condiciones del sistema de trabajo, y paralelamente asegura su calidad y productividad, haciéndolo más eficiente. #[strong (Rueda y Zambrano 2018)]. 
+    p.mt-4 Un trabajo diseñado o abordado según criterios ergonómicos se humaniza, pues prioriza el bienestar, la salud y el crecimiento del trabajador en su rol laboral, blindándolo al máximo de posibles accidentes y enfermedades, al optimizar las condiciones del sistema de trabajo, y paralelamente asegura su calidad y productividad, haciéndolo más eficiente. #[strong (Rueda y Zambrano, 2018)]. 
     p.mt-4 #[strong Rueda y Zambrano (2018)] mencionan que la ergonomía ha profundizado en tres áreas del conocimiento o especialidades en los ámbitos físico, mental y social: la ergonomía física, la ergonomía cognitiva y la ergonomía organizacional.
     TabsB.mt-5
       .py-4.py-md-5(titulo="Ergonomía física" :icono="require('@/assets/template/tema-1-49.svg')")
@@ -685,7 +685,7 @@
           figure.mb-2
             img(src="@/assets/template/tema-1-60.png", alt="Texto que describa la imagen")
         .col-12.col-md-8
-          p La ergonomía actúa en dos momentos: sobre la persona y sobre el proceso productivo, a través de líneas de acción preventivas, al igual que en la concepción y el diseño de procesos y productos: en sus tareas, ambientes o elementos de trabajo; o de manera correctiva, para cambiar o mejorar situaciones ya implementadas que presentan fallas en su concepción o desarrollo. #[strong (Rueda y Zambrano, 2018)]
+          p La ergonomía actúa en dos momentos: sobre la persona y sobre el proceso productivo, a través de líneas de acción preventivas, al igual que en la concepción y el diseño de procesos y productos: en sus tareas, ambientes o elementos de trabajo; o de manera correctiva, para cambiar o mejorar situaciones ya implementadas que presentan fallas en su concepción o desarrollo. #[strong (Rueda y Zambrano, 2018).]
     .h6.mt-5 Seguridad y salud en el trabajo
     .row.mt-5
       .col-lg-8.align-self-center
