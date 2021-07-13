@@ -5,9 +5,9 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3
+        span
           i.fas.fa-info
-      .h3 Introducción
+      h1 Introducción
     
     figure.mb-5
       .video
@@ -24,8 +24,5 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-.bg-amarillo-claro
-  background-color: #FFFBEF
-.rounded
-  border-radius: 18px
+.introduccion
 </style>

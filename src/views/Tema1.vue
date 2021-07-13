@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3.title-num 1
-      .h3 Endomarketing
+        span 1
+      h1 Endomarketing
     figure
       img(src="@/assets/template/tema-1-1.svg", alt="Texto que describa la imagen")
     p.mt-5 El ambiente interno de la empresa es donde suelen suceder, antes que en otros escenarios, las propias estrategias de marketing. 
@@ -749,18 +749,24 @@
             .col-md-8
               .h6 Sistema de seguridad y salud en el trabajo
               p.mt-4 El sistema de gestión como el desarrollo de un proceso lógico y por etapas, basado en la mejora continua y que incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoría y las acciones de mejora, con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo dentro de la organización objeto de las medidas de intervención. 
+ 
+    
+
+
+
+
+
+
+
 
 
 
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     datosSlyder1: [
       {
@@ -800,6 +806,14 @@ export default {
       },
     ],
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 

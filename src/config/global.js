@@ -108,88 +108,6 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Nelftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Claudia Juliana León Pinto',
-        cargo: 'Experta tematica ',
-        centro: 'Centro de Servicios Empresariales y Turísticos',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Diseñadora instruccional ',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Servicios Empresariales y Turísticos',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Uriel Darío González Montoya',
-        cargo: 'Acompañamiento pedagógico',
-        centro: 'Centro Agropecuario La Granja',
-        regional: 'Regional Tolima',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-      },
-      {
-        nombre: ['Luis Fernando Sarmiento Betancourth'],
-        cargo: 'Diseño web',
-      },
-      {
-        nombre: [
-          'Arnulfo Beltrán Mojica',
-          'Gilberto Junior Rodríguez Rodríguez',
-          'Lady Adriana Ariza Luque',
-          'Nelson Iván Vera Briceño',
-          'Víctor Raúl Cardenas Cáceres',
-          'Wilson Andrés Arenales Cáceres',
-          'Zuleidy Maria Ruiz Torres',
-        ],
-        cargo: 'Producción audiovisual',
-      },
-      {
-        nombre: 'Lizeth Karina Manchego Suárez',
-        cargo: 'Desarrollo front-end',
-      },
-      {
-        nombre: 'Jenny Paola Montillo Gélvez',
-        cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: ['Validación y vinculación en plataforma LMS'],
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-  },
   referencias: [
     {
       referencia:
@@ -454,4 +372,95 @@ export default {
         'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/auth/ip?intended_url=https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/reader/manual-de-ergonomia-y-seguridad-segunda-edicion-1?location=172',
     },
   ],
+  creditos: {
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: '',
+      },
+    ],
+    contenidoInstruccional: [
+      {
+        nombre: 'Rafael Nelftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Claudia Juliana León Pinto',
+        cargo: 'Experta tematica ',
+        centro:
+          'Regional Santander - Centro de Servicios Empresariales y Turísticos',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora instruccional ',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador instruccional',
+        centro:
+          'Regional Santander - Centro de Servicios Empresariales y Turísticos',
+      },
+      {
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Regional Tolima - Centro Agropecuario La Granja',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+      {
+        nombre: ['Luis Fernando Sarmiento Betancourth'],
+        cargo: 'Diseño web',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: [
+          'Arnulfo Beltrán Mojica',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Lady Adriana Ariza Luque',
+          'Nelson Iván Vera Briceño',
+          'Víctor Raúl Cardenas Cáceres',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+    ],
+  },
 }

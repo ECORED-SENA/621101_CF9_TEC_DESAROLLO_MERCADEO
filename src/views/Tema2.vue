@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3.title-num 2
-      .h3 Comunicación integral
+        span 2
+      h1 Comunicación integral
     .row.mt-5
       .col
         .cajon.color-primario.p-4.mb-4.bg-rojo-claro
@@ -194,10 +194,10 @@
     .row.mt-5
       .col-10.offset-1.borde-top-gris
         .row.py-4
-          .col-4.d-none.d-lg-block.align-self-center
+          .col-3.d-none.d-lg-block.align-self-center
             figure(style='margin-left: 55px; position:relative ; z-index:  99;')
               img(src="@/assets/template/tema-2-12.png", alt="Texto que describa la imagen")
-          .col-12.col-lg-8.align-self-center.p-5.rounded(style='background-color: rgba(255, 217, 71, 0.25) ;')
+          .col-12.col-lg-9.align-self-center.p-5.rounded(style='background-color: rgba(255, 217, 71, 0.25) ;')
             .row
               .col-11.offset-1
                 p.mt-3 Un insight es una experiencia verdadera y relevante para el consumidor que se expresa con el lenguaje del consumidor. Trata de conectar con lo más profundo que hay en él, considerándole siempre como «persona». #[strong (Ayestarán et al., 2012).] 
@@ -259,11 +259,23 @@
                 p.mt-1 La percepción es el proceso mediante el cual las personas seleccionan, organizan e interpretan la información para formarse una imagen significativa del mundo. La gente podría tener distintas percepciones del mismo estímulo debido a tres procesos perceptuales: atención, distorsión y retención selectivas. 
     p.mt-5 Las personas están expuestas a un gran número de estímulos cotidianamente. Por ejemplo, se estima que la gente se expone a una cantidad de anuncios que oscila entre tres mil y cinco mil cada día. El abarrotado entorno digital agrega 5.3 billones de anuncios en línea cada año, 400 millones de tuits que se envían a diario, 144 mil horas de video que se suben diariamente a Internet y 4750 millones de piezas de contenido compartido en Facebook cada día. Es imposible prestar atención a todos esos estímulos que entran en competencia a nuestro alrededor. #[strong (Kotler y Armstrong, 2017).]
     SlyderB.mb-5(:datos="datosSlyder3").mt-5
+    
+
+
+
+
+
+
+
+
+
+
 </template>
 
 <script>
 export default {
   name: 'Tema2',
+  components: {},
   data: () => ({
     datosSlyder3: [
       {
@@ -286,6 +298,14 @@ export default {
       },
     ],
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 
